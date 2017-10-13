@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:background="@color/transparent"
+     >
+  <TextView 
+      android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+      style="@style/NormalWhiteText16"
+      android:text="1."
+      android:id="@+id/yidian_item_num"
+      android:gravity="center"
+      android:layout_centerVertical="true"
+      android:layout_alignParentLeft="true"
+      />
+   
+   
+  <TextView 
+        android:layout_width="60dp"
+    android:layout_height="match_parent"
+      style="@style/NormalWhiteText16"
+      android:text="刘德华"
+      android:ellipsize="end" 
+      android:singleLine="true"
+      android:id="@+id/yidian_item_song_singer"
+      android:gravity="center"
+      android:layout_marginRight="5dp"
+      android:layout_marginLeft="20dp"
+      android:layout_centerVertical="true"
+      />
+  <TextView 
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+      style="@style/NormalWhiteText16"
+      android:text="蓝眼泪"
+      android:ellipsize="end" 
+      android:singleLine="true"
+      android:layout_centerVertical="true"
+      android:layout_marginRight="5dp"
+      android:layout_toRightOf="@id/yidian_item_song_singer"
+      android:id="@+id/yidian_item_song_name"
+      android:gravity="left|center"
+      />
+</RelativeLayout>

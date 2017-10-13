@@ -1,0 +1,4 @@
+#Wed Oct 11 20:13:48 CST 2017
+base.0=D\:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=D\:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

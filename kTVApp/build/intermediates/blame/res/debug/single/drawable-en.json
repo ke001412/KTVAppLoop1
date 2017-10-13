@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-en\\more_wifi_set1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-en\\more_wifi_set1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-en\\more_yuyan.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-en\\more_yuyan.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-en\\more_yuyan1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-en\\more_yuyan1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-en\\more_tiaoyin_1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-en\\more_tiaoyin_1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-en\\more_wifi_set.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-en\\more_wifi_set.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-en\\more_tiaoyin_2.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-en\\more_tiaoyin_2.png"
+    }
+]

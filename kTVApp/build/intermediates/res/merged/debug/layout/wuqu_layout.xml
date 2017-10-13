@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    >
+    <LinearLayout 
+         android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginBottom="60dp"
+        >
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="1"
+      android:id="@+id/wuqu_manyao"
+    >
+    <ImageView 
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+         android:background="@drawable/wuqu1"
+        />
+    <TextView
+      
+        android:text="@string/ktv_manyao"
+         android:layout_width="match_parent"
+    	android:layout_height="30dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        	android:layout_alignParentBottom="true"
+    	android:orientation="horizontal"
+    	android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        />
+    
+</RelativeLayout>
+  
+
+
+<LinearLayout 
+      android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	android:layout_marginTop="25dp"
+    >
+    <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/wuqu2"
+    	android:id="@+id/wuqu_huaerzi"
+        >
+    <TextView 
+         
+        android:text="@string/ktv_huaerzi"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/wuqu5"
+    	 android:id="@+id/wuqu_qiaqia"
+        >
+    <TextView 
+        
+        android:text="@string/ktv_qiaqia"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+    
+    </RelativeLayout>
+</LinearLayout>
+
+
+
+
+<LinearLayout 
+      android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	android:layout_marginTop="25dp"
+    >
+    <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/wuqu3"
+    	android:id="@+id/wuqu_dishigao"
+        >
+    <TextView 
+         
+        android:text="@string/ktv_dishigao"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/wuqu6"
+    	  android:id="@+id/wuqu_pulushi"
+        >
+    <TextView 
+       
+        android:text="@string/ktv_pulushi"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+    
+    </RelativeLayout>
+</LinearLayout>
+
+
+
+
+<LinearLayout 
+      android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	android:layout_marginTop="25dp"
+    >
+    <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/wuqu4"
+    	 android:id="@+id/wuqu_chuangshao"
+        >
+    <TextView 
+        
+        android:text="@string/ktv_chuanshao"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <LinearLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/ertong"
+    	android:orientation="horizontal"
+        >
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/wuqu7"
+    	android:id="@+id/wuqu_jiteba"
+        >
+    <TextView 
+         
+        android:text="@string/ktv_jiteba"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/wuqu8"
+    	  android:id="@+id/wuqu_tange"
+        >
+    <TextView 
+       
+        android:text="@string/ktv_tange"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+    
+    </LinearLayout>
+</LinearLayout>
+</LinearLayout>
+<com.sz.ktv.view.widget.KtvBottomPageWidget
+    android:layout_width="match_parent"
+    	android:layout_height="50dp"
+    	android:id="@+id/wuqu_back"
+    	android:layout_alignParentBottom="true"
+    	android:layout_marginBottom="2dp"
+    />
+</RelativeLayout>

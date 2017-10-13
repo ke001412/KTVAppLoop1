@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android\workspace\KTVAppLoop1\kTVApp\libs\HiMediaplayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="436af383962d3e7af88e20fa88c6b4614b211dfc">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\HiMediaplayer_c1215654dc2c59698e94ca7d6e1e380f8cc98bfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\fd7513980836100a4f74c280c799698bea537b25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\classes_c1b4c78f7c30753c8d3ad7347998d4754f3d8d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\workspace\KTVAppLoop1\daoCore\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="947f9544c69c1d3551ee8d135bb952e87f2e825f">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\classes_de14b8b1de4296aa02e17f8721b8f77f0074cad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\7d26f30f309b255b87785c1969c568d0367e1cd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\classes_a86b17d869a3207a2ea8129805ee2c932b3f32d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\workspace\KTVAppLoop1\kTVApp\libs\commons-io-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24f6678d458e65f08113a079e3724581eca1184">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\commons-io-2.5_4b4a3d8a6659dfbbb8babe33677541af398b4d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\workspace\KTVAppLoop1\kTVApp\libs\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\glide-3.7.0_1e6f5df03c789aea95d4af2c51df61d67436523d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\workspace\KTVAppLoop1\kTVApp\libs\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\eventbus-3.0.0_5025470c80e69405af32bef971071e4b346e88a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_0740e35b1562f687139862cca605a1202e2f94d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\7d26f30f309b255b87785c1969c568d0367e1cd1\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_560fcecba6998fb21e20d6634edb9a423fbd6315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\workspace\KTVAppLoop1\kTVApp\libs\zixing-core-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\pre-dexed\debug\zixing-core-3.2.0_531e463d5c42b7f4ee18e7d3aa65be6d816c9399.jar" />
+    </item>
+
+</items>

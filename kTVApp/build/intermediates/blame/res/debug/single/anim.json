@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\anim\\fade_in.xml"
+    }
+]

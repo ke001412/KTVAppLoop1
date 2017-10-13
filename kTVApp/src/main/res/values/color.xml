@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_blue_text">#00AADB</color>
+    <color name="color_gray">#898989</color>
+    <color name="color_black">#000000</color>
+    <color name="color_gray_cf">#dbdcd5</color>
+    <color name="color_green">#92CF68</color>
+    <color name="color_green_flows">#2A951A</color>
+    <color name="color_dark_green">#83BA5D</color>
+    <color name="color_dark_purple">#526184</color>
+    <color name="color_red">#FF0000</color>
+    <color name="color_blue">#1E94CB</color>
+    <color name="color_blue_flows">#33A6FF</color>
+    <color name="color_light_gray">#EBEBEB</color>
+    <color name="color_dark_gray">#737373</color>
+    <color name="color_blac_a">#555555</color>
+    <color name="color_status">#58B5E1</color>
+    <color name="color_setting">#1E94CB</color>
+    <color name="color_performance">#EEB93F</color>
+    <color name="color_command">#FA6567</color>
+    <color name="color_update">#3E4B69</color>
+    <color name="color_log">#4A587B</color>
+   
+    <color name="orange">#FFF48B00</color>
+    <color name="darkorange">#FF824600</color>
+    <color name="transparent_gray">#A000</color>
+    <color name="color_form">#58B5E1</color>
+    <color name="color_switch_red">#F25C5C</color>
+    <color name="color_switch_green">#1FBE5C</color>
+    
+    <color name="color_head_common">#6A7DAB</color>
+    <color name="color_select">#6070A0</color>
+    <color name="color_un_select">#6A7DAB</color>
+	<color name="color_progress_bg">#01045E</color>
+	<color name="color_progress">#01CBFC</color>
+	
+	 <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="input_dialog_btn_color">#A6E6FF</color>
+</resources>

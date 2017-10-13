@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/qifen_bg1"
+    >
+    
+    <TextView 
+        android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:text="声效/表情"
+    style="@style/NormalWhiteText14"
+    android:gravity="center"
+        />
+ <LinearLayout 
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_weight="1"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+     >
+     <RelativeLayout 
+         android:id="@+id/qifen_zhangsheng"
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:layout_gravity="center"
+    android:gravity="center"
+         >
+<ImageView 
+    android:id="@+id/qifen_zhangsheng_img"
+      android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:background="@drawable/qifen_bg1_09"
+   
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_zhangsheng"
+    style="@style/NormalWhiteText12"
+    android:layout_below="@id/qifen_zhangsheng_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout>
+      <RelativeLayout 
+          android:id="@+id/qifen_koushao"
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+     android:layout_gravity="center"
+    android:gravity="center"
+         >
+<ImageView 
+    android:id="@+id/qifen_koushao_img"
+      android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:background="@drawable/qifen_bg1_11"
+   
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_koushao"
+    style="@style/NormalWhiteText12"
+    android:layout_below="@id/qifen_koushao_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout> <RelativeLayout 
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+     android:layout_gravity="center"
+    android:gravity="center"
+    android:id="@+id/qifen_xianhua"
+         >
+<ImageView 
+    android:id="@+id/qifen_xianhua_img"
+      android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:background="@drawable/qifen_bg1_13"
+   
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_xianhua"
+    style="@style/NormalWhiteText12"
+    android:layout_below="@id/qifen_xianhua_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout>  
+ </LinearLayout>
+ 
+ 
+ <LinearLayout 
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_weight="1"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+     >
+     <RelativeLayout 
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:id="@+id/qifen_huanhu"
+         >
+<ImageView 
+    android:id="@+id/qifen_huanhu_img"
+      android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:background="@drawable/qifen_bg1_23"
+   
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_huanhu"
+    style="@style/NormalWhiteText12"
+    android:layout_below="@id/qifen_huanhu_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout>
+      <RelativeLayout 
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+     android:layout_gravity="center"
+    android:gravity="center"
+    android:id="@+id/qifen_zhufuyu"
+         >
+<ImageView 
+    android:id="@+id/qifen_zhufuyu_img"
+      android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:background="@drawable/qifen_bg1_25"
+   
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_zhufuyu"
+    style="@style/NormalWhiteText12"
+    android:layout_below="@id/qifen_zhufuyu_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout> <RelativeLayout 
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+     android:layout_gravity="center"
+    android:gravity="center"
+    android:id="@+id/qifen_gaoguai"
+         >
+<ImageView 
+    android:id="@+id/qifen_gaoguai_img"
+      android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:background="@drawable/qifen_bg1_27"
+   
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_gaoguai"
+    style="@style/NormalWhiteText12"
+    android:layout_below="@id/qifen_gaoguai_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout>  
+ </LinearLayout>
+ 
+</LinearLayout>

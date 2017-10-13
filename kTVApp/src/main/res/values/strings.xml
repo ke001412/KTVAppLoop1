@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KTVApp</string>
+    
+	<string name="home_center_gexing">Singer</string>
+	<string name="home_center_xinge">NewSong</string>
+	<string name="home_center_leibie">Type</string>
+	<string name="home_center_paihang">Top</string>
+	<string name="home_center_geming">Song</string>
+	<string name="home_center_gaoqing">HD</string>
+	<string name="home_center_shezhi">Settings</string>
+	<string name="home_center_remen">Hot</string>
+	<string name="home_center_wuqu">Dance</string>
+	<string name="home_center_shoucang">Favorites</string>
+	
+	<string name="home_button_xinxi">Message</string>
+	<string name="home_button_yunfuwu">Cloud</string>
+	<string name="home_button_wuxian">Wireless</string>
+	<string name="home_button_movies">Movies</string>
+	
+	<string name="home_button_shouye">Home</string>
+	<string name="home_button_qiege">Next</string>
+	<string name="home_button_zanting">Pause</string>
+	<string name="home_button_chongbo">Replay</string>
+	<string name="home_button_banchang">Digital</string>
+	<string name="home_button_yuanchang">Vocal</string>
+	<string name="home_button_yinjian">Reduce</string>
+	<string name="home_button_yinjia">Plus</string>
+	<string name="home_button_fangyin">Play</string>
+	<string name="home_button_jingyin">Mute</string>
+	<string name="home_button_qifen">Atmo</string>
+	<string name="home_button_gengduo">More</string>
+	<string name="home_button_daohang">Menu</string>
+	<string name="home_button_yidian">Selecte</string>
+	
+	<string name="ktv_confirm_yes">Yes</string>
+	<string name="ktv_confirm_no">No</string>
+	
+	<string name="ktv_yuyan_guoyu">Chinese</string>
+	<string name="ktv_yuyan_yueyu">Cantonese</string>
+	<string name="ktv_yuyan_minnanyu">Hokkien</string>
+	<string name="ktv_yuyan_yingyu">English</string>
+	<string name="ktv_yuyan_riyu">Japanese</string>
+	<string name="ktv_yuyan_hanyu">Korean</string>
+	<string name="ktv_qita">Other</string>
+	<string name="ktv_quanbu">All</string>
+	
+	<string name="ktv_yun_gequ">CloudSong</string>
+	<string name="ktv_yun_xiazai">CloudDownload</string>
+	<string name="ktv_yun_gengxin">CloudUpdate</string>
+	
+	<string name="ktv_dalu_nan">Chinese Male</string>
+	<string name="ktv_gangtai_nan">H&#038;T Male</string>
+	<string name="ktv_haiwai_nan">Inter Male</string>
+	<string name="ktv_yuedui_zuhe">Band Comb</string>
+	<string name="ktv_dalu_nv">Chinese Female</string>
+	<string name="ktv_gangtai_nv">H&#038;T Female</string>
+	<string name="ktv_haiwai_nv">Inter Female</string>
+	<string name="ktv_all_gexing">All</string>
+	
+	<string name="ktv_paihang_bang">Top</string>
+	<string name="ktv_paihang_zong">All</string>
+	<string name="ktv_paihang_minnanyu">Hokkien</string>
+	<string name="ktv_paihang_guoyu">Chinese</string>
+	<string name="ktv_paihang_xinge">NewSong</string>
+	<string name="ktv_paihang_yue">Month</string>
+	<string name="ktv_paihang_zhou">Week</string>
+	<string name="ktv_paihang_yueyu">Cantonese</string>
+	
+	<string name="ktv_xinge">Newsong</string>
+	<string name="ktv_setting">Settings</string>
+	<string name="ktv_shoucang">Favorite</string>
+	<string name="ktv_zhuti">Theme</string>
+	<string name="ktv_dh_remen">Top:</string>
+	<string name="ktv_zhongguohaoshengyin">GoodVoice</string>
+	<string name="ktv_woshigeshou">Singer</string>
+	<string name="ktv_zuimeihesheng">Duets</string>
+	<string name="ktv_zhongguozuiqiangyin">StrongVoice</string>
+	<string name="ktv_zhongguohaogequ">GoodSong</string>
+	<string name="ktv_zhongguoyinchao">SuperMusic</string>
+	<string name="ktv_mengxiangxindangdang">DreamStar</string>
+	<string name="ktv_mengmiangewang">MaskedKing</string>
+	<string name="ktv_dh_quzhong">SongType:</string>
+	<string name="ktv_shengrigequ">Birthday</string>
+	<string name="ktv_geminggequ">Revolution</string>
+	<string name="ktv_huaijiugequ">Nostalgia</string>
+	<string name="ktv_hechanggequ">Chorus</string>
+	<string name="ktv_xiquxinshang">Drama</string>
+	<string name="ktv_dianyingxinshang">电影欣赏</string>
+	<string name="ktv_ertonggequ">Childen</string>
+	<string name="ktv_xiqinggequ">Joyous</string>
+	<string name="ktv_xiangshengxiaopin">Comic</string>
+	<string name="ktv_wuqu">Dance:</string>
+	<string name="ktv_manyao">Slow roll</string>
+	<string name="ktv_huaerzi">Waltz</string>
+	<string name="ktv_dishigao">Disco</string>
+	<string name="ktv_chuanshao">Yakitori</string>
+	<string name="ktv_qiaqia">Precisely</string>
+	<string name="ktv_pulushi">Prussia</string>
+	<string name="ktv_jiteba">Gute Ba</string>
+	<string name="ktv_tange">Tango</string>
+	<string name="ktv_dh_dianying">Movie:</string>
+	<string name="ktv_dongzuo">Action</string>
+	<string name="ktv_xiju">Comedy</string>
+	<string name="ktv_guzhuang">Costume</string>
+	<string name="ktv_feijing">Police</string>
+	<string name="ktv_kehuan">Science</string>
+	<string name="ktv_zhanzheng">War</string>
+	<string name="ktv_donghua">Cartoon</string>
+	
+	<string name="ktv_version">SoftwarVersion</string>
+	<string name="ktv_msg_no">No Message!</string>
+	
+	<string name="ktv_zhangsheng">Applause</string>
+	<string name="ktv_koushao">Whistle</string>
+	<string name="ktv_xianhua">Flower</string>
+	<string name="ktv_huanhu">Cheer</string>
+	<string name="ktv_zhufuyu">Blessing</string>
+	<string name="ktv_gaoguai">Funny</string>
+	
+	<string name="ktv_search_tips">Please input song or singer</string>
+	<string name="ktv_shoupin">PinYin</string>
+	<string name="ktv_zishu">Word</string>
+	
+	<string name="ktv_yanzhengma">Security Code:</string>
+	<string name="ktv_login_erweima">Login dimensional code</string>
+	<string name="ktv_iphone_down">IOS Download</string>
+	<string name="ktv_android_down">Android Download</string>
+	<string name="ktv_wifi_buzhou_1">1 before the scan,please confirm whether the phone is able to access the Internet,using a mobile phone to scan the corresponding two-dimensional code to download software;</string>
+	<string name="ktv_wifi_buzhou_2">2 set up after the installation of the mobile phone WIFI</string>
+	<string name="ktv_wifi_buzhou_3">3 mobile phone wireless VOD software, scan jukebox(TV)two-dimensional code ;can also manually enter four verification code\n,click on the lock can be connected. The time after the installation of the first point(more)\n button to a data update to the song. </string>
+	<string name="ktv_wifi_buzhou_4">4 Iphone can be directly into the APPSTORE search for "crazy K song" download, no need to scan two-dimensional code.</string>
+	<string name="ktv_wifi_buzhou_zhuyi">Note: mobile phone download "check" and "search" software such as two-dimensional code scanning, with various browsers or use mobile phone to scan two-dimensional code download</string>
+	
+	<string name="ktv_yixuan">Selected</string>
+	<string name="ktv_yibo">Played</string>
+	<string name="ktv_daluan">Upset</string>
+	<string name="ktv_shangyiye">Page Up</string>
+	<string name="ktv_xiayiye">page Dw</string>
+	
+	<string name="ktv_yindiao">Tone</string>
+	<string name="ktv_yuandiao">Basetone</string>
+	
+	<string name="ktv_jianti_zhongwen">简体中文</string>
+	<string name="ktv_fanti_zhongwen">繁体中文</string>
+	<string name="ktv_english">English</string>
+	
+	<string name="ktv_shuru_mima">Enter Password</string>
+	<string name="ktv_queding">OK</string>
+	<string name="ktv_huishan">Delete</string>
+	
+	<string name="ktv_pingfenshezhi">Set Score</string>
+	<string name="ktv_shezhipingfen">Score Set </string>
+	<string name="ktv_pingfenguanbi">1.Score off</string>
+	<string name="ktv_xuanzhongzhuangtai">[selected]</string>
+	<string name="ktv_pingfendakai">2.Score open</string>
+	
+	<string name="ktv_biaoqing">Phiz</string>
+	
+	<string name="ktv_shuchu_title">Set Output Mode</string>
+	<string name="ktv_shuchu_tips">After setting the output,the system need reboot to take effect</string>
+	<string name="ktv_shuchu_1080p">1.HD1080P</string>
+	<string name="ktv_shuchu_1080i">2.HD1080I</string>
+	<string name="ktv_shuchu_720p">3.HD 720P</string>
+	<string name="ktv_shuchu_480i">4.SD  480I</string>
+	
+	<string name="ktv_zuoshengdao">Left</string>
+	<string name="ktv_youshengdao">Right</string>
+	<string name="ktv_yingui1">Track1</string>
+	<string name="ktv_yingui2">Track2</string>
+	<string name="ktv_yingui3">Track3</string>
+	
+	<string name="ktv_yizibu">One</string>
+	<string name="ktv_liuzibu">Six</string>
+	<string name="ktv_erzibu">Two</string>
+	<string name="ktv_qizibu">Seven</string>
+	<string name="ktv_sanzibu">Three</string>
+	<string name="ktv_bazibu">Eight</string>
+	<string name="ktv_sizibu">Four</string>
+	<string name="ktv_duozibu">More</string>
+	<string name="ktv_wuzibu">Five</string>
+	
+	<string name="ktv_gedanhuanyuan">Restore Song</string>
+	<string name="ktv_gongboshezhi">Public Setting</string>
+	
+	<string name="ktv_logo_xiugai">Modify Logo</string>
+	<string name="ktv_guanli_mima">Modify administrative password</string>
+	<string name="ktv_xinmima">new passowrd:</string>
+	
+	<string name="ktv_shanchu">Delete</string>
+	<string name="ktv_ding">Top</string>
+	
+	<string name="ktv_xitongguanli">System Management</string>
+	<string name="ktv_set_gongbo">Public Setting</string>
+	<string name="ktv_set_upanjiage">Usb Add</string>
+	<string name="ktv_set_gedanhuanyuan">Restore Song</string>
+	<string name="ktv_set_gequshanchu">Delete Song</string>
+	<string name="ktv_set_gequxiugai">Modify Song</string>
+	<string name="ktv_set_shuchushezhi">Set Output</string>
+	<string name="ktv_set_zimushezhi">Set Caption</string>
+	<string name="ktv_set_shengji">Upgrade Program</string>
+	<string name="ktv_set_zimujiaozheng">Screen Correct</string>
+	<string name="ktv_set_gexingtianjia">Add Singer</string>
+	<string name="ktv_set_mimaxiugai">Modfiy Password</string>
+	<string name="ktv_set_upanboge">Usb Play</string>
+	<string name="ktv_set_wangluoshezhi">Set Network</string>
+	
+	<string name="ktv_xg_01">01.Song:</string>
+	<string name="ktv_xg_02">02.No:</string>
+	<string name="ktv_xg_03">03.Lang:</string>
+	<string name="ktv_xg_04">04.PinYin:</string>
+	<string name="ktv_xg_05">05.Word:</string>
+	<string name="ktv_xg_06">06.Singer:</string>
+	<string name="ktv_xg_07">07.Track:</string>
+	<string name="ktv_xg_08">08.Volume1:</string>
+	<string name="ktv_xg_09">09.Volume2:</string>
+	<string name="ktv_xg_10">10.SongType:</string>
+	<string name="ktv_xg_11">11.Dance:</string>
+	<string name="ktv_xg_12">12.Movie:</string>
+	<string name="ktv_xg_13">13.Pop:</string>
+	<string name="ktv_xg_14">14.Date:</string>
+	<string name="ktv_xg_15">15.filename:</string>
+	
+	<string name="ktv_shanchu_gequwenjian">Delete song file</string>
+	
+	<string name="ktv_del_01">01.No:</string>
+	<string name="ktv_del_02">02.Song:</string>
+	<string name="ktv_del_03">03.Singer:</string>
+	<string name="ktv_del_04">04.PinYin:</string>
+	<string name="ktv_del_05">05.Language:</string>
+	<string name="ktv_del_06">06.Word:</string>
+	<string name="ktv_del_07">07.Songtype:</string>
+	<string name="ktv_del_08">08.Dance:</string>
+	<string name="ktv_del_09">09.Movie:</string>
+	<string name="ktv_del_10">10.Pop:</string>
+	<string name="ktv_del_11">11.PlayCount&#060;=:</string>
+	
+	<string name="ktv_chakan">Check</string>
+	<string name="ktv_xuanbenye">SelThis</string>
+	<string name="ktv_quanxuan">SelAll</string>
+	<string name="ktv_quxiao">Cancle</string>
+	
+	<string name="ktv_danqujiage">SingleAdd</string>
+	<string name="ktv_piliangjiage">MoreAdd</string>
+	<string name="ktv_cipanall">Total disk sapce:</string>
+	<string name="ktv_cipanshengxia">Free disk space:</string>
+	<string name="ktv_luru_pre">You can save about[</string>
+	<string name="ktv_luru_next">]Song</string>
+	
+	<string name="ktv_wangluo_gongzuomoshi">Work mode:</string>
+	<string name="ktv_wangluo_shuru_mima">Please enter wifi id and password.</string>
+	<string name="ktv_wangluo_lianjie">Connect</string>
+	<string name="ktv_wangluo_saomiao">WifiScan</string>
+	
+	<string name="ktv_welcome">Welcome to the KTV VOD system!</string>
+	<string name="ktv_welcome_qidong">The system is starting......</string>
+	
+	<string name="ktv_zimu_neirong">Modify marquee content</string>
+	<string name="ktv_zimu_shuru">Please enter content marquee:</string>
+	<string name="ktv_shoucang_mima">Please enter the phone number</string>
+	<string name="ktv_current_play">Current play</string>
+	
+	 <string name="input_dialog_title_str">请输入</string>
+    <string name="input_dialog_et_hint_str">请输入</string>
+    <string name="input_dialog_btn_text">确定</string>
+    
+     <style name="MyDialogStyleBottom" parent="android:Theme.Dialog">
+        
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+</resources>

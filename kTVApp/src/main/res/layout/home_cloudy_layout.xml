@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/yun_wu" >
+ 
+        <LinearLayout
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/gaoguai_title"
+            android:orientation="horizontal" >
+            <RelativeLayout 
+         android:id="@+id/yun_gequ"
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:layout_gravity="center"
+    android:gravity="center"
+         >
+<ImageView 
+    android:id="@+id/yuyan_jianti_img"
+      android:layout_width="55dp"
+    android:layout_height="55dp"
+    android:layout_centerHorizontal="true"
+    android:background="@drawable/yun_wu_09"
+   
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_yun_gequ"
+    style="@style/NormalWhiteText16"
+     android:layout_centerHorizontal="true"
+    android:layout_below="@id/yuyan_jianti_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout>
+
+           <RelativeLayout 
+         android:id="@+id/yun_xiazai"
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:layout_gravity="center"
+    android:gravity="center"
+    
+         >
+<ImageView 
+    android:id="@+id/yuyan_fanti_img"
+      android:layout_width="55dp"
+    android:layout_height="55dp"
+    android:layout_centerHorizontal="true"
+    android:background="@drawable/yun_wu_11"
+   
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_yun_xiazai"
+    style="@style/NormalWhiteText16"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@id/yuyan_fanti_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout>
+
+           <RelativeLayout 
+         android:id="@+id/yun_gengxin"
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:layout_gravity="center"
+    android:gravity="center"
+         >
+<ImageView 
+    android:id="@+id/yuyan_english_img"
+      android:layout_width="55dp"
+    android:layout_height="55dp"
+    android:layout_centerHorizontal="true"
+    android:background="@drawable/yun_wu_13"
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_yun_gengxin"
+    style="@style/NormalWhiteText16"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@id/yuyan_english_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout>
+        </LinearLayout>
+
+</RelativeLayout>

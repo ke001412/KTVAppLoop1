@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/houtai" >
+
+    <TextView
+        style="@style/BoldWhiteText24"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="@string/ktv_shanchu_gequwenjian" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="60dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="5" >
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="20dp" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="2dp"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_01" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                             android:id="@+id/song_del_no"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_02" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_geming"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_03" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_gexing"
+                              />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_04" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_shoupin"
+                              />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_05" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_yubie"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_06" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_zishu"
+                             />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_07" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_leibie"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_08" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_wuqu"
+                             />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_09" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_dianying"
+                             />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_10" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_remen"
+                             />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/ktv_del_11" />
+
+                        <com.sz.ktv.view.widget.UnderlineTextView
+                            style="@style/NormalWhiteText18"
+                            android:layout_width="100dp"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_blue"
+                            android:padding="1dp"
+                            android:text=""
+                            app:underline_color="@color/color_red"
+                            app:underline_height="1dp" 
+                            android:id="@+id/song_del_dianjilv"
+                            />
+                    </LinearLayout>
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/color_white" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_weight="2" >
+
+            <TextView
+                android:id="@+id/song_del_page_show"
+                style="@style/NormalRedText18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="10dp"
+                android:text="[0/0]" />
+
+            <com.sz.ktv.view.widget.KtvBottomPageWidget
+                android:id="@+id/sys_song_delete_back"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="3dp" />
+
+            <LinearLayout
+                android:id="@+id/song_del_bottom_button"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="10dp"
+                android:layout_above="@id/sys_song_delete_back"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/song_del_button_pre"
+                    style="@style/NormalWhiteText18"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:background="@color/color_blue"
+                    android:gravity="center"
+                    android:text="@string/ktv_shangyiye" />
+
+                <Button
+                    android:id="@+id/song_del_button_next"
+                    style="@style/NormalWhiteText18"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                     android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:background="@color/color_blue"
+                    android:gravity="center"
+                    android:text="@string/ktv_xiayiye" />
+
+                <Button
+                    android:id="@+id/song_del_button_look"
+                    style="@style/NormalWhiteText18"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                      android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:background="@color/color_blue"
+                    android:gravity="center"
+                    android:text="@string/ktv_chakan" />
+
+                <Button
+                    android:id="@+id/song_del_button_select_current_all"
+                    style="@style/NormalWhiteText18"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                     android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:background="@color/color_blue"
+                    android:gravity="center"
+                    android:text="@string/ktv_xuanbenye" />
+
+                <Button
+                    android:id="@+id/song_del_button_select_all"
+                    style="@style/NormalWhiteText18"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                      android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:background="@color/color_blue"
+                    android:gravity="center"
+                    android:text="@string/ktv_quanxuan" />
+
+                <Button
+                    android:id="@+id/song_del_button_cancle"
+                    style="@style/NormalWhiteText18"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                      android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:background="@color/color_blue"
+                    android:gravity="center"
+                    android:text="@string/ktv_quxiao" />
+
+                <Button
+                    android:id="@+id/song_del_button_shanchu"
+                    style="@style/NormalWhiteText18"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                     android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:background="@color/color_blue"
+                    android:gravity="center"
+                    android:text="@string/ktv_shanchu" />
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/song_del_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@id/song_del_bottom_button"
+                android:layout_below="@id/song_del_page_show"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="15dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

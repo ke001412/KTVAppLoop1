@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\songxg_liuxing_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\songxg_liuxing_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\geming_item.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\geming_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\yidian_item_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\yidian_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_password_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_password_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\layout_second.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\layout_second.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\a_test_view.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\a_test_view.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\page_singer_item.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\page_singer_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\input_number_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\input_number_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_set_song_xiugai_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_set_song_xiugai_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\page_item.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\page_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_center_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_center_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\ktv_play_preview_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\ktv_play_preview_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_more_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_more_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\download_item_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\download_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\song_delete_item_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\song_delete_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\copygeming_1_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\copygeming_1_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\view_item.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\view_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\language_set_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\language_set_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\songxg_wuqu_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\songxg_wuqu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_search_dialog.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_search_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\songxg_yubie_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\songxg_yubie_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_daohang_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_daohang_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\paihang_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\paihang_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_input_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\dialog_input_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\input_dialog_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\input_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\songxg_yinliang_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\songxg_yinliang_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_upan_add_list_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_upan_add_list_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\wuqu_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\wuqu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_set_add_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_set_add_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\ktv_play_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\ktv_play_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\item2.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\item2.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_gedan_huanyuan_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_gedan_huanyuan_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_wifi_diange_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_wifi_diange_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\remen_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\remen_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\copy_preview_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\copy_preview_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\number_key_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\number_key_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\welcome_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_song_delete_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_song_delete_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\layout_third.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\layout_third.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\file_item.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\file_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_set_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_set_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_list_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\wifi_list_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\pre_ktv_play_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\pre_ktv_play_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\ktv_input_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\ktv_input_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\gexing_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\gexing_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\songxg_zishu_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\songxg_zishu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_upan_addsong_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_upan_addsong_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_input_view.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\abc_input_view.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\gexing_item.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\gexing_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\qifen_xianhua_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\qifen_xianhua_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\ktv_preview_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\ktv_preview_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_gongbo_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_gongbo_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_yidian_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_yidian_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\more_tiaoyin_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\more_tiaoyin_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\pingfen_setting_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\pingfen_setting_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\more_yuyan_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\more_yuyan_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_qifen_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_qifen_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\layout_first.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\layout_first.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_search_dialog2.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_search_dialog2.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\songxg_yingui_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\songxg_yingui_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_u_pan_boge_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_u_pan_boge_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\songxg_dianying_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\songxg_dianying_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\copygeming_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\copygeming_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\shuchu_setting_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\shuchu_setting_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\zimu_setting_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\zimu_setting_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\page_grid_item.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\page_grid_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_cloudy_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_cloudy_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_shengji_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_shengji_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\leibie_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\leibie_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_wifi_config_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_wifi_config_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_download_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_download_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_center_left.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_center_left.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_set_gongbo_item_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_set_gongbo_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_dialog.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\confirm_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_bottom_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_bottom_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_top_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_top_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\system_logo_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\system_logo_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\hand_write_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\hand_write_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\geming_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\geming_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\qifen_gaoguai_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\qifen_gaoguai_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\ktv_page_dots.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\ktv_page_dots.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\songxg_fenlei_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\songxg_fenlei_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\home_msg_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\home_msg_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_item_layout.xml",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\layout\\wifi_item_layout.xml"
+    }
+]

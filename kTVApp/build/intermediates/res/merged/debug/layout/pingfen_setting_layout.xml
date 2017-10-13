@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/houtai"
+    >
+    <TextView 
+          android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_alignParentTop="true"
+    android:text="@string/ktv_pingfenshezhi"
+    style="@style/BoldWhiteText24"
+    android:gravity="center"
+        />
+<RelativeLayout 
+    
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="60dp"
+    android:layout_marginBottom="35dp"
+     android:layout_centerHorizontal="true"
+    android:layout_marginRight="30dp"
+    >
+    <LinearLayout 
+        android:layout_width="200dp"
+    android:layout_height="25dp"
+    android:orientation="horizontal"
+    android:layout_marginTop="30dp"
+    android:layout_marginLeft="30dp"
+    android:id="@+id/password_top_text"
+    android:layout_centerHorizontal="true"
+    android:gravity="left"
+    
+        >
+ <TextView 
+     android:layout_width="match_parent"
+    android:layout_height="35dp"
+    android:text="@string/ktv_shezhipingfen"
+    style="@style/NormalBlueText18"
+     android:gravity="left|center"
+     />       
+   
+    </LinearLayout>
+
+
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="35dp"
+    android:layout_below="@id/password_top_text"
+    android:layout_centerHorizontal="true"
+    >
+    
+     
+    
+    <RelativeLayout 
+         android:layout_width="200dp"
+    android:layout_height="65dp"
+    android:layout_centerHorizontal="true"
+        >
+    <LinearLayout 
+        android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_alignParentLeft="true"
+    android:id="@+id/pingfen_close"
+     android:gravity="left"
+        >
+    <com.sz.ktv.view.widget.UnderlineTextView 
+           android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/ktv_pingfenguanbi"
+     android:gravity="left|center"
+     android:padding="1dp"
+     style="@style/BoldWhiteText18"
+     android:id="@+id/pingfen_close_tv"
+        app:underline_color="@color/color_red"
+        app:underline_height="1dp"
+        />
+      <TextView 
+           android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/ktv_xuanzhongzhuangtai"
+    style="@style/BoldWhiteText18"
+    android:layout_marginLeft="20dp"
+     android:id="@+id/pingfen_close_show"
+     android:visibility="gone"
+        />
+    </LinearLayout>
+          
+    <LinearLayout 
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_alignParentLeft="true"
+    android:id="@+id/pingfen_open"
+    android:layout_below="@id/pingfen_close"
+        >
+    <com.sz.ktv.view.widget.UnderlineTextView 
+           android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/ktv_pingfendakai"
+    app:underline_color="@color/color_red"
+        app:underline_height="1dp"
+  style="@style/BoldWhiteText18"
+   android:id="@+id/pingfen_open_tv"
+   android:padding="1dp"
+        />
+      <TextView 
+          android:layout_marginLeft="20dp"
+           android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/ktv_xuanzhongzhuangtai"
+ style="@style/BoldWhiteText18"
+  android:id="@+id/pingfen_open_show"
+  android:visibility="gone"
+        />
+    </LinearLayout>
+    
+    </RelativeLayout>
+     
+</RelativeLayout>
+
+</RelativeLayout>
+<com.sz.ktv.view.widget.KtvBottomPageWidget
+    android:layout_width="match_parent"
+    	android:layout_height="50dp"
+    	android:id="@+id/pingfen_back"
+    	android:layout_alignParentBottom="true"
+    	android:layout_marginBottom="10dp"
+    />
+</RelativeLayout>

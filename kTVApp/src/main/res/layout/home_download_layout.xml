@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000B9C"
+    >
+<LinearLayout 
+    android:background="#003E9C"
+       android:layout_width="280dp"
+    android:layout_height="30dp"
+    android:orientation="horizontal"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="5dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:id="@+id/yidian_top_layout"
+    >
+    <TextView 
+        android:background="@color/transparent"
+        android:text="正在下载"
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    style="@style/NormalWhiteText16"
+    android:gravity="center"
+    android:id="@+id/yun_download"
+        />
+      <TextView 
+        android:background="@color/transparent"
+        android:text="下载完成"
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    style="@style/NormalWhiteText16"
+    android:gravity="center"
+    android:id="@+id/yun_download_over"
+        />
+</LinearLayout>
+
+<LinearLayout 
+     android:layout_width="120dp"
+     android:layout_alignParentRight="true"
+    android:layout_height="40dp"
+    android:orientation="horizontal"
+    android:id="@+id/yidian_bottom_layout"
+    android:layout_alignParentBottom="true"
+    android:layout_marginBottom="5dp"
+    >
+     <Button 
+        android:background="@color/transparent"
+        android:text="@string/ktv_shangyiye"
+        android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:layout_weight="1"
+    style="@style/NormalWhiteText16"
+    android:gravity="center"
+    android:id="@+id/yidian_pre_page"
+        />
+      <Button 
+        android:background="@color/transparent"
+        android:text="@string/ktv_xiayiye"
+        android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:layout_weight="1"
+    style="@style/NormalWhiteText16"
+    android:gravity="center"
+    android:id="@+id/yidian_next_page"
+        />
+    
+</LinearLayout>
+     <ListView 
+         
+         android:id="@+id/yidian_list"
+         android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_below="@id/yidian_top_layout"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="5dp"
+    android:layout_above="@id/yidian_bottom_layout"
+         />
+
+</RelativeLayout>

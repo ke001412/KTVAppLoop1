@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@drawable/yuyan_bg5"
+    android:orientation="horizontal"
+    >
+    
+    <LinearLayout 
+            android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="horizontal"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+        >
+  
+      <ImageView 
+          android:id="@+id/more_tiaoyin"
+          android:layout_weight="1"
+            android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:background="@drawable/more_tiaoyin_button"
+    android:layout_marginLeft="10dp"
+          />
+      
+ 
+      <ImageView 
+            android:id="@+id/more_wifi"
+            android:layout_weight="1"
+            android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:layout_marginLeft="10dp"
+    android:background="@drawable/more_wifi_button"
+          />
+  
+      <ImageView 
+            android:id="@+id/more_yuyan"
+            android:layout_weight="1"
+            android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:layout_marginLeft="10dp"
+    android:background="@drawable/more_yuyan_button"
+          />
+       
+      
+   
+  </LinearLayout>
+
+</LinearLayout>

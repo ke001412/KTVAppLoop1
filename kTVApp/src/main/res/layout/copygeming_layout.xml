@@ -1,0 +1,135 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_bottom_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+      >
+      <TextView 
+          android:id="@+id/geming_title"
+          android:gravity="left|center"
+          style="@style/NormalWhiteText16"
+          android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="10dp"
+    android:text="点歌->歌名点歌->全部"
+          />
+      <LinearLayout 
+          android:id="@+id/geming_select"
+            android:layout_below="@id/geming_title"
+       android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+          >
+          <Button 
+               android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/ktv_yuyan_guoyu"
+    android:layout_weight="1"
+    android:background="@color/transparent"
+    android:id="@+id/geming_guoyu"
+    style="@style/NormalWhiteText16"
+              />
+          <Button 
+               android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/ktv_yuyan_yueyu"
+    android:layout_weight="1"
+     android:background="@color/transparent"
+    android:id="@+id/geming_yueyu"
+    style="@style/NormalWhiteText16"
+              />
+          
+          <Button 
+               android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/ktv_yuyan_minnanyu"
+    android:layout_weight="1"
+     android:background="@color/transparent"
+    android:id="@+id/geming_minnanyu"
+    style="@style/NormalWhiteText16"
+              />
+          
+          <Button 
+               android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/ktv_yuyan_yingyu"
+    android:layout_weight="1"
+     android:background="@color/transparent"
+    android:id="@+id/geming_yingyu"
+    style="@style/NormalWhiteText16"
+              />
+          
+          <Button 
+               android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/ktv_yuyan_riyu"
+    android:layout_weight="1"
+     android:background="@color/transparent"
+    android:id="@+id/geming_riyu"
+    style="@style/NormalWhiteText16"
+              />
+          
+          <Button 
+               android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/ktv_yuyan_hanyu"
+    android:layout_weight="1"
+     android:background="@color/transparent"
+    android:id="@+id/geming_hanyu"
+    style="@style/NormalWhiteText16"
+              />
+           <Button 
+               android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/ktv_qita"
+    android:layout_weight="1"
+     android:background="@color/transparent"
+    android:id="@+id/geming_qita"
+    style="@style/NormalWhiteText16"
+              />
+          
+          <Button 
+               android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/ktv_quanbu"
+    android:layout_weight="1"
+     android:background="@color/transparent"
+    android:id="@+id/geming_quanbu"
+    style="@style/NormalWhiteText16"
+              />
+          
+          
+      </LinearLayout>
+      
+      <com.sz.ktv.view.cycle.CycleViewPager 
+           android:layout_below="@id/geming_select"
+       android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/geming_scroll_layout"
+    android:layout_marginBottom="35dp"
+    android:layout_marginTop="15dp"
+          ></com.sz.ktv.view.cycle.CycleViewPager>
+<!--    <com.sz.ktv.view.ScrollLayout  -->
+<!--            android:layout_below="@id/geming_select" -->
+<!--        android:layout_width="match_parent" -->
+<!--     android:layout_height="match_parent" -->
+<!--     android:id="@+id/geming_scroll_layout" -->
+<!--     android:layout_marginBottom="40dp" -->
+<!--     android:layout_marginTop="15dp" -->
+     
+<!--        > -->
+<!--    </com.sz.ktv.view.ScrollLayout> -->
+
+   <com.sz.ktv.view.widget.KtvBottomPageWidget
+       android:id="@+id/geming_back"
+       android:layout_width="fill_parent"
+       android:layout_height="30dp"
+       android:layout_alignParentBottom="true"
+       />
+</RelativeLayout>

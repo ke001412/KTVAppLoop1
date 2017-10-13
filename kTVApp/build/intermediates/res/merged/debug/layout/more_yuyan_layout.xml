@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@drawable/yuyan_bg5" >
+ 
+        <LinearLayout
+            android:layout_margin="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/gaoguai_title"
+            android:orientation="horizontal" >
+            <RelativeLayout 
+         android:id="@+id/yuyan_jianti"
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:layout_gravity="center"
+    android:gravity="center"
+         >
+<ImageView 
+    android:id="@+id/yuyan_jianti_img"
+      android:layout_width="71dp"
+    android:layout_height="49dp"
+    android:background="@drawable/yuyan_bg5_09"
+   android:layout_centerHorizontal="true"
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_jianti_zhongwen"
+    style="@style/NormalWhiteText12"
+    android:layout_below="@id/yuyan_jianti_img"
+    android:gravity="center"
+    android:layout_centerHorizontal="true"
+        />
+         
+     </RelativeLayout>
+
+           <RelativeLayout 
+         android:id="@+id/yuyan_fanti"
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:layout_gravity="center"
+    android:gravity="center"
+         >
+<ImageView 
+    android:id="@+id/yuyan_fanti_img"
+      android:layout_width="71dp"
+    android:layout_height="49dp"
+    android:background="@drawable/yuyan_bg5_11"
+   android:layout_centerHorizontal="true"
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_fanti_zhongwen"
+    style="@style/NormalWhiteText12"
+    android:layout_below="@id/yuyan_fanti_img"
+    android:gravity="center"
+     android:layout_centerHorizontal="true"
+        />
+         
+     </RelativeLayout>
+
+           <RelativeLayout 
+         android:id="@+id/yuyan_english"
+           android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:layout_gravity="center"
+    android:gravity="center"
+         >
+<ImageView 
+    android:id="@+id/yuyan_english_img"
+      android:layout_width="71dp"
+    android:layout_height="49dp"
+     android:layout_centerHorizontal="true"
+    android:background="@drawable/yuyan_bg5_13"
+    />         
+    <TextView 
+         android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="@string/ktv_english"
+    style="@style/NormalWhiteText12"
+     android:layout_centerHorizontal="true"
+    android:layout_below="@id/yuyan_english_img"
+    android:gravity="center"
+        />
+         
+     </RelativeLayout>
+        </LinearLayout>
+
+</RelativeLayout>

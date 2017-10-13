@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/daohang_top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/daohang_geming_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_weight="3"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/daohang_geming_img"
+                android:layout_width="35dp"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true" >
+
+                <ImageView
+                    android:layout_width="66dp"
+                    android:layout_height="33dp"
+                    android:background="@drawable/daohang_12" />
+
+                <TextView
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="35dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:text="歌名" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/daohang_geming_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toRightOf="@id/daohang_geming_img"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/daohang_geming_guoyu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_yuyan_guoyu" />
+
+                    <Button
+                        android:id="@+id/daohang_geming_minnanyu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_yuyan_minnanyu" />
+
+                    <Button
+                        android:id="@+id/daohang_geming_riyu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_yuyan_riyu" />
+
+                    <Button
+                        android:id="@+id/daohang_geming_qita"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_qita" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/daohang_geming_yueyu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_yuyan_yueyu" />
+
+                    <Button
+                        android:id="@+id/daohang_geming_yingyu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_yuyan_yingyu" />
+
+                    <Button
+                        android:id="@+id/daohang_geming_hanyu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_yuyan_hanyu" />
+
+                    <Button
+                        android:id="@+id/daohang_geming_quanbu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_quanbu" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/daohang_gexing_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@id/daohang_gexing_layout"
+            android:layout_weight="3"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/daohang_gemxing_img"
+                android:layout_width="35dp"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true" >
+
+                <ImageView
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/daohang_06" />
+
+                <TextView
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="35dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:text="@string/home_center_gexing" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/daohang_geming_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toRightOf="@id/daohang_gemxing_img"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/daohang_gexing_dalu_nan"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_dalu_nan" />
+
+                    <Button
+                        android:id="@+id/daohang_gexing_gangtai_nan"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:gravity="center"
+                        android:text="@string/ktv_gangtai_nan" />
+
+                    <Button
+                        android:id="@+id/daohang_gexing_haiwai_nan"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:gravity="center"
+                        android:text="@string/ktv_haiwai_nan" />
+
+                    <Button
+                        android:id="@+id/daohang_gexing_yuedui_zuhe"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:gravity="center"
+                        android:text="@string/ktv_yuedui_zuhe" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/daohang_gexing_dalu_nv"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_dalu_nv" />
+
+                    <Button
+                        android:id="@+id/daohang_gexing_gangtai_nv"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_gangtai_nv" />
+
+                    <Button
+                        android:id="@+id/daohang_gexing_haiwai_nv"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_haiwai_nv" />
+
+                    <Button
+                        android:id="@+id/daohang_gexing_quanbu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:gravity="center"
+                        android:text="@string/ktv_all_gexing" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/daohang_paihangbang_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_weight="3"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/daohang_paihangbang_img"
+                android:layout_width="45dp"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true" >
+
+                <ImageView
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/daohang_08" />
+
+                <TextView
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="50dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:text="@string/ktv_paihang_bang" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/daohang_geming_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toRightOf="@id/daohang_paihangbang_img"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/daohang_paihang_zong"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_paihang_zong" />
+
+                    <Button
+                        android:id="@+id/daohang_paihang_minnanyu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_paihang_minnanyu" />
+
+                    <Button
+                        android:id="@+id/daohang_paihang_guoyu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_paihang_guoyu" />
+
+                    <Button
+                        android:id="@+id/daohang_paihang_xinge"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_paihang_xinge" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/daohang_paihang_yue"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_paihang_yue" />
+
+                    <Button
+                        android:id="@+id/daohang_paihang_zhou"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_paihang_zhou" />
+
+                    <Button
+                        android:id="@+id/daohang_paihang_yueyu"
+                        style="@style/NormalWhiteText16"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/button"
+                        android:text="@string/ktv_paihang_yueyu" />
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:visibility="invisible" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_weight="3.8"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/daohang_xinge"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1" >
+
+                <ImageView
+                    android:id="@+id/xinge_img"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/daohang_03" />
+
+                <TextView
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_toRightOf="@id/xinge_img"
+                    android:gravity="center"
+                    android:text="@string/ktv_xinge" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/daohang_shezhi"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1" >
+
+                <ImageView
+                    android:id="@+id/xinge_img"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/daohang_15" />
+
+                <TextView
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_toRightOf="@id/xinge_img"
+                    android:gravity="center"
+                    android:text="@string/ktv_setting" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/daohang_shoucang"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1" >
+
+                <ImageView
+                    android:id="@+id/shoucang_img"
+                    android:layout_width="45dp"
+                    android:layout_height="35dp"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/daohang_19" />
+
+                <TextView
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_toRightOf="@id/shoucang_img"
+                    android:gravity="center"
+                    android:text="@string/ktv_shoucang" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/daohang_center_img"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@id/daohang_top_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_weight="3.5" >
+
+        <ImageView
+            android:id="@+id/daohang_zhuti_img"
+            android:layout_width="47dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/daohang_22" />
+
+        <TextView
+            style="@style/NormalWhiteText16"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/daohang_zhuti_img"
+            android:gravity="center"
+            android:text="@string/ktv_zhuti" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/daohang_bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/daohang_center_img"
+        android:layout_weight="2"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/remen_text"
+                style="@style/NormalWhiteText16"
+                android:layout_width="45dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:text="@string/ktv_dh_remen" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/remen_text"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/daohang_remen_zghsy"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_zhongguohaoshengyin" />
+
+                <Button
+                    android:id="@+id/daohang_remen_wsgs"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_woshigeshou" />
+
+                <Button
+                    android:id="@+id/daohang_remen_zmhs"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_zuimeihesheng" />
+
+                <Button
+                    android:id="@+id/daohang_remen_zgzqy"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_zhongguozuiqiangyin" />
+
+                <Button
+                    android:id="@+id/daohang_remen_zghgq"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_zhongguohaogequ" />
+
+                <Button
+                    android:id="@+id/daohang_remen_zgyc"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_zhongguoyinchao" />
+
+                <Button
+                    android:id="@+id/daohang_remen_mxxdd"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_mengxiangxindangdang" />
+
+                <Button
+                    android:id="@+id/daohang_remen_mmgw"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_mengmiangewang" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/quzhong_text"
+                style="@style/NormalWhiteText16"
+                android:layout_width="45dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:text="@string/ktv_dh_quzhong" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="2dp"
+                android:layout_toRightOf="@id/quzhong_text"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/daohang_quzhong_srgq"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_shengrigequ" />
+
+                <Button
+                    android:id="@+id/daohang_quzhong_gmgq"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_geminggequ" />
+
+                <Button
+                    android:id="@+id/daohang_quzhong_hjgq"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_huaijiugequ" />
+
+                <Button
+                    android:id="@+id/daohang_quzhong_hcgq"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_hechanggequ" />
+
+                <Button
+                    android:id="@+id/daohang_quzhong_xqxs"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_xiquxinshang" />
+
+                <Button
+                    android:id="@+id/daohang_quzhong_etgq"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_ertonggequ" />
+
+                <Button
+                    android:id="@+id/daohang_quzhong_xqgq"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_xiqinggequ" />
+
+                <Button
+                    android:id="@+id/daohang_quzhong_xsxp"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_xiangshengxiaopin" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/wuqu_text"
+                style="@style/NormalWhiteText16"
+                android:layout_width="45dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:text="@string/ktv_wuqu" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="2dp"
+                android:layout_toRightOf="@id/wuqu_text"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/daohang_wuqu_my"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_manyao" />
+
+                <Button
+                    android:id="@+id/daohang_wuqu_hrz"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_huaerzi" />
+
+                <Button
+                    android:id="@+id/daohang_wuqu_dsg"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_dishigao" />
+
+                <Button
+                    android:id="@+id/daohang_wuqu_cs"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_chuanshao" />
+
+                <Button
+                    android:id="@+id/daohang_wuqu_qq"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_qiaqia" />
+
+                <Button
+                    android:id="@+id/daohang_wuqu_pls"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_pulushi" />
+
+                <Button
+                    android:id="@+id/daohang_wuqu_jtb"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_jiteba" />
+
+                <Button
+                    android:id="@+id/daohang_wuqu_tg"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_tange" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/dianying_text"
+                style="@style/NormalWhiteText16"
+                android:layout_width="45dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:text="@string/ktv_dh_dianying" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="2dp"
+                android:layout_toRightOf="@id/dianying_text"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/daohang_dianying_dz"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_dongzuo" />
+
+                <Button
+                    android:id="@+id/daohang_dianying_xj"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_xiju" />
+
+                <Button
+                    android:id="@+id/daohang_dianying_gz"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_guzhuang" />
+
+                <Button
+                    android:id="@+id/daohang_dianying_fj"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_feijing" />
+
+                <Button
+                    android:id="@+id/daohang_dianying_kh"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_kehuan" />
+
+                <Button
+                    android:id="@+id/daohang_dianying_zz"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_zhanzheng" />
+
+                <Button
+                    android:id="@+id/daohang_dianying_dh"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_donghua" />
+
+                <Button
+                    android:id="@+id/daohang_dianying_qt"
+                    style="@style/NormalWhiteText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button"
+                    android:text="@string/ktv_qita" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

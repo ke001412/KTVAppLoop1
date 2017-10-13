@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sz.ktv"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:name="com.sz.ktv.application.MyApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:largeHeap="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.sz.ktv.ui.activity.WelcomeActivity"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="adjustPan|stateHidden"
+            android:configChanges="keyboardHidden|orientation|screenSize|locale"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sz.ktv.MainActivity"
+             
+             android:windowSoftInputMode="stateVisible|adjustResize"
+            android:screenOrientation="landscape"
+            android:configChanges="keyboardHidden|orientation|screenSize|locale"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.sz.ktv.ui.activity.KTVVideoPlayActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="keyboardHidden|orientation|screenSize|locale"
+            android:label="@string/app_name" >
+        </activity>
+        
+         <activity android:name="com.sz.ktv.view.dialog.SelectPicPopupWindow"  android:theme="@style/MyDialogStyleBottom"/>
+        
+        <service
+            android:name="com.sz.ktv.ui.service.LoadService"
+             >
+        </service>
+        
+        <service android:name="com.sz.ktv.net.service.ConnectService" >
+        </service>
+    </application>
+    <!-- 显示顶层浮窗 -->
+<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+     <!-- 写SD卡权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- 允许程序访问WIFI状态 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <!-- 请求访问使用照相设备 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- 允许程序访问网络 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+ <!-- 需要用到camera特性 -->
+    <uses-feature android:name="android.hardware.camera" />
+     <!-- 允许程序改变Wi-Fi连接状态 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+</manifest>

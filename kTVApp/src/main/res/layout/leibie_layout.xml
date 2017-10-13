@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    >
+    <LinearLayout 
+         android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginBottom="60dp"
+        >
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="1"
+      android:id="@+id/leibie_shengri"
+    >
+    <ImageView 
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+         android:background="@drawable/shengri"
+        />
+    <TextView
+      
+        android:text="@string/ktv_shengrigequ"
+         android:layout_width="match_parent"
+    	android:layout_height="30dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        	android:layout_alignParentBottom="true"
+    	android:orientation="horizontal"
+    	android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        />
+    
+</RelativeLayout>
+  
+
+
+<LinearLayout 
+      android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	android:layout_marginTop="25dp"
+    >
+    <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/geming2"
+    	android:id="@+id/leibie_geming"
+        >
+    <TextView 
+         
+        android:text="@string/ktv_geminggequ"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/xiqu"
+    	 android:id="@+id/leibie_xiqu"
+        >
+    <TextView 
+        
+        android:text="@string/ktv_xiquxinshang"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+    
+    </RelativeLayout>
+</LinearLayout>
+
+
+
+
+<LinearLayout 
+      android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	android:layout_marginTop="25dp"
+    >
+    <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/huaijiu"
+    	android:id="@+id/leibie_huaijiu"
+        >
+    <TextView 
+         
+        android:text="@string/ktv_huaijiugequ"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/ertong"
+    	  android:id="@+id/leibie_ertong"
+        >
+    <TextView 
+       
+        android:text="@string/ktv_ertonggequ"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+    
+    </RelativeLayout>
+</LinearLayout>
+
+
+
+
+<LinearLayout 
+      android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	android:layout_marginTop="25dp"
+    >
+    <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/hechang"
+    	 android:id="@+id/leibie_hechang"
+        >
+    <TextView 
+        
+        android:text="@string/ktv_hechanggequ"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <LinearLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/ertong"
+    	android:orientation="horizontal"
+        >
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/xiqing"
+    	android:id="@+id/leibie_xiqing"
+        >
+    <TextView 
+         
+        android:text="@string/ktv_xiqinggequ"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/xiangsheng"
+    	  android:id="@+id/leibie_xiangsheng"
+        >
+    <TextView 
+       
+        android:text="@string/ktv_xiangshengxiaopin"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+    
+    </LinearLayout>
+</LinearLayout>
+</LinearLayout>
+<com.sz.ktv.view.widget.KtvBottomPageWidget
+    android:layout_width="match_parent"
+    	android:layout_height="50dp"
+    	android:id="@+id/leibie_back"
+    	android:layout_alignParentBottom="true"
+    	android:layout_marginBottom="5dp"
+    />
+</RelativeLayout>

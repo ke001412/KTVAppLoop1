@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:background="@color/transparent"
+    >
+    <ImageView 
+        android:layout_marginRight="40dp"
+        android:id="@+id/ktv_fanhui"
+        android:layout_width="50dp"
+    android:layout_height="28dp"
+    android:background="@drawable/ktv_button_fanhui"
+    android:layout_alignParentRight="true"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:layout_marginBottom="10dp"
+        />
+    
+<ImageView 
+    android:layout_marginRight="30dp"
+    android:layout_toLeftOf="@id/ktv_fanhui"
+    android:layout_centerVertical="true"
+	 android:layout_centerHorizontal="true"
+     android:background="@drawable/right"
+	 android:layout_width="20dp"
+	 android:layout_height="12dp"
+	 android:id="@+id/ktv_right"
+     />
+
+<TextView
+    android:layout_toLeftOf="@id/ktv_right" 
+    style="@style/NormalWhiteText12"
+    android:text=""
+    android:id="@+id/ktv_show_page"
+     android:layout_width="90dp"
+	 android:layout_height="fill_parent"
+	 android:gravity="center"
+    />
+<ImageView 
+    android:layout_toLeftOf="@id/ktv_show_page"
+     android:background="@drawable/left"
+	 android:layout_width="22dp"
+	 android:layout_height="12dp"
+	 android:id="@+id/ktv_left"
+	 android:layout_centerVertical="true"
+	 android:layout_centerHorizontal="true"
+     />
+ 
+</RelativeLayout>

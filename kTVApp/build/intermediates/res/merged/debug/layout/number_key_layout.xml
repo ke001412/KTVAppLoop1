@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:layout_width="355dp"
+ android:layout_height="355dp"
+ android:orientation="vertical"
+ android:background="#BEB0C4DE"
+ >
+  
+    <LinearLayout 
+        android:background="@color/color_blue"
+         android:layout_width="match_parent"
+  android:layout_height="match_parent"
+   android:layout_margin="20dp"
+        >
+    
+ <RelativeLayout
+  android:id="@+id/txt_amount"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical"
+  android:layout_margin="10dp"
+   >
+  <TextView
+   android:id="@+id/num_input"
+   android:layout_width="match_parent"
+   android:layout_height="55dp"
+   android:background="@drawable/keyboard_normal"
+   android:gravity="left|center"
+   android:paddingLeft="17dip"
+   android:paddingRight="20dp"
+   style="@style/NormalBlackText16"
+   android:inputType="numberPassword"
+    android:hint="@string/ktv_shuru_mima"
+    />
+ 
+ <LinearLayout
+     android:layout_below="@id/num_input"
+     android:layout_marginTop="10dp"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical">
+  <LinearLayout
+   android:id="@+id/table_num"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   android:orientation="vertical">
+   <LinearLayout 
+        android:layout_height="match_parent" 
+	android:layout_width="match_parent"
+       android:layout_weight="1"
+       style="@style/layout_input_amount_style">
+    <Button
+     android:id="@+id/btn_1"
+      android:layout_height="match_parent" 
+      android:layout_width="match_parent"
+       android:layout_weight="1"
+     style="@style/btn_input_amount_style"
+     android:background="@drawable/number_key_button"
+     android:text="1" />
+    <Button
+     android:id="@+id/btn_2"
+      android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+     style="@style/btn_input_amount_style"
+       android:background="@drawable/number_key_button"
+     android:text="2" />
+    <Button
+     android:id="@+id/btn_3"
+      android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+     style="@style/btn_input_amount_style"
+        android:background="@drawable/number_key_button"
+     android:text="3" />
+   </LinearLayout>
+   <LinearLayout
+        android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+        style="@style/layout_input_amount_style">
+    <Button
+     android:id="@+id/btn_4"
+      android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+     style="@style/btn_input_amount_style"
+        android:background="@drawable/number_key_button"
+     android:text="4" />
+    <Button
+     android:id="@+id/btn_5"
+      android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+     style="@style/btn_input_amount_style"
+       android:background="@drawable/number_key_button"
+     android:text="5" />
+    <Button
+     android:id="@+id/btn_6"
+      android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+         android:background="@drawable/number_key_button"
+     style="@style/btn_input_amount_style"
+     android:text="6" />
+   </LinearLayout>
+   <LinearLayout 
+        android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+       style="@style/layout_input_amount_style">
+    <Button
+     android:id="@+id/btn_7"
+      android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+     style="@style/btn_input_amount_style"
+       android:background="@drawable/number_key_button"
+     android:text="7" />
+    <Button
+     android:id="@+id/btn_8" 
+     android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+       android:background="@drawable/number_key_button"
+     style="@style/btn_input_amount_style"
+     android:text="8" />
+    <Button
+     android:id="@+id/btn_9"
+      android:layout_width="match_parent" 
+       android:layout_height="match_parent"
+       android:layout_weight="1"
+       android:background="@drawable/number_key_button"
+     style="@style/btn_input_amount_style"
+     android:text="9" />
+   </LinearLayout>
+   <LinearLayout 
+       android:layout_width="match_parent" 
+       android:layout_height="match_parent"
+       android:layout_weight="1"
+       style="@style/layout_input_amount_style">
+    <TextView
+     android:id="@+id/btn_delete"
+       android:background="@drawable/number_key_button"
+     style="@style/btn_input_amount_style_delete"
+     android:drawableLeft="@drawable/icon_delete_32dp"
+     android:drawablePadding="5dp"
+     android:layout_gravity="center"
+     android:gravity="center"
+      android:layout_width="match_parent" 
+       android:layout_height="match_parent"
+       android:layout_weight="1"
+     android:padding="10dp"
+     android:text="@string/ktv_huishan" />
+    <Button
+     android:id="@+id/btn_0"
+      android:layout_height="match_parent" 
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+     style="@style/btn_input_amount_style"
+       android:background="@drawable/number_key_button"
+     android:text="0" />
+    <TextView
+     android:id="@+id/btn_enter"
+      android:layout_width="match_parent" 
+       android:layout_height="match_parent"
+       android:layout_weight="1"
+         android:background="@drawable/number_key_button"
+     style="@style/btn_input_amount_style_delete"
+     android:drawableLeft="@drawable/icon_enter_32dp"
+     android:text="@string/ktv_queding"
+     android:layout_gravity="center"
+     android:gravity="center"
+      android:drawablePadding="5dp"
+     android:padding="10dp"
+      />
+   </LinearLayout>
+  </LinearLayout>
+ </LinearLayout>
+ </RelativeLayout>
+        
+    </LinearLayout>
+</RelativeLayout>
+ 

@@ -1,0 +1,341 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_bottom_container"
+    android:layout_width="match_parent"
+    android:layout_height="105dp"
+    android:layout_gravity="bottom"
+    android:gravity="bottom" >
+
+    <com.hisilicon.android.videoplayer.view.HisiVideoView 
+        android:id="@+id/home_bottom_center_video"
+        android:layout_width="125dp"
+        android:layout_height="165dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+         />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@id/home_bottom_center_video"
+        android:gravity="bottom"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/home_shouye"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+                 android:layout_width="45dp"
+                android:layout_height="42dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/shouye" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_shouye" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_qiege"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_qiege_button" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="@string/home_button_qiege" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_zanting"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+                 android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_zanting_button" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_zanting" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_chongbo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_chongbo_button" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_chongbo" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_banchang"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/home_banchang_img"
+                 android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_banchang_button" />
+
+            <TextView
+                android:id="@+id/home_banchang_text"
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_banchang" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_yinjian"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_yinjian_button" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_yinjian" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+         android:layout_height="70dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/home_bottom_center_video"
+        android:gravity="bottom"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/home_yinjia"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+               android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_yinjia_button" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_yinjia" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_fangyin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/home_fanyin_img"
+                 android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_fanyin_button" />
+
+            <TextView
+                android:id="@+id/home_fangyin_text"
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_fangyin" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_qifen"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_qifen_button" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_qifen" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_gengduo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+               android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_gengduo_button" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_gengduo" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_daohang"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+               android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_daohang_button" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_daohang" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_yidian"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ImageView
+               android:layout_width="45dp"
+                android:layout_height="42dp"
+                 android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/home_yidian_button" />
+
+            <TextView
+                android:id="@+id/home_yidian_count"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:text="100"
+                android:layout_alignParentTop="true"
+                android:textColor="@android:color/holo_red_dark"
+                android:textSize="14dp" />
+
+            <TextView
+                style="@style/NormalWhiteText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="@string/home_button_yidian" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

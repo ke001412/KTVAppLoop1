@@ -1,0 +1,39 @@
+ 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_container_"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/main"
+     >
+
+ <FrameLayout
+    android:id="@+id/home_center_content" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="105dp"
+    android:layout_marginBottom="95dp"
+    android:layout_marginRight="80dp"
+    android:layout_marginLeft="80dp"
+    >
+<!--
+  <com.hisilicon.android.videoplayer.view.HisiVideoView
+      android:id="@+id/home_media_backgournd"
+       android:layout_width="match_parent"
+      android:layout_height="match_parent" />
+      -->
+ </FrameLayout>
+<include layout="@layout/home_top_layout"/>
+ <include layout="@layout/home_bottom_layout"
+     android:id="@+id/home_bottom_layout"
+     android:layout_height="90dp"
+     android:layout_width="match_parent"
+     android:layout_alignParentBottom="true"
+     />
+ <ScrollView
+     android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     />
+</RelativeLayout>
+ 

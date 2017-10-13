@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HiMediaplayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kTVApp/libs/HiMediaplayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

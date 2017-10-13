@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android\workspace\KTVAppLoop1\kTVApp\src\main\jniLibs"><file name="armeabi/libdwEngineHw.so" path="D:\android\workspace\KTVAppLoop1\kTVApp\src\main\jniLibs\armeabi\libdwEngineHw.so"/></source></dataSet><dataSet config="debug"><source path="D:\android\workspace\KTVAppLoop1\kTVApp\src\debug\jniLibs"/></dataSet></merger>

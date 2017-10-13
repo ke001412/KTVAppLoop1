@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    >
+    <LinearLayout 
+         android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginBottom="55dp"
+        >
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="1"
+      android:id="@+id/remen_zghsy"
+    >
+    <ImageView 
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+         android:background="@drawable/remen_zghsy"
+        />
+    <TextView
+      
+        android:text="@string/ktv_zhongguohaoshengyin"
+         android:layout_width="match_parent"
+    	android:layout_height="30dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        	android:layout_alignParentBottom="true"
+    	android:orientation="horizontal"
+    	android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        />
+    
+</RelativeLayout>
+  
+
+
+<LinearLayout 
+      android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	android:layout_marginTop="15dp"
+    >
+    <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/remen_wsgs"
+    	android:id="@+id/remen_wsgs"
+        >
+    <TextView 
+         
+        android:text="@string/ktv_woshigeshou"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/remen_zghgq"
+    	 android:id="@+id/remen_zghgq"
+        >
+    <TextView 
+        
+        android:text="@string/ktv_zhongguohaogequ"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+    
+    </RelativeLayout>
+</LinearLayout>
+
+
+
+
+<LinearLayout 
+      android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	android:layout_marginTop="15dp"
+    >
+    <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/remen_zmhs"
+    	android:id="@+id/remen_zmhs"
+        >
+    <TextView 
+         
+        android:text="@string/ktv_zuimeihesheng"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/remen_zgyc"
+    	  android:id="@+id/remen_zgyc"
+        >
+    <TextView 
+       
+        android:text="@string/ktv_zhongguoyinchao"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+    
+    </RelativeLayout>
+</LinearLayout>
+
+
+
+
+<LinearLayout 
+      android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:orientation="vertical"
+    	 
+    >
+    <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/remen_zgzqy"
+    	 android:id="@+id/remen_zgzqy"
+        >
+    <TextView 
+        
+        android:text="@string/ktv_zhongguozuiqiangyin"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <LinearLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/ertong"
+    	android:orientation="horizontal"
+        >
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/remen_mxxdd"
+    	android:id="@+id/remen_mxxdd"
+        >
+    <TextView 
+         
+        android:text="@string/ktv_mengxiangxindangdang"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+     <RelativeLayout 
+           android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1"
+    	android:background="@drawable/remen_mmgw"
+    	  android:id="@+id/remen_mmgw"
+        >
+    <TextView 
+       
+        android:text="@string/ktv_mengmiangewang"
+         android:layout_width="match_parent"
+    	android:layout_height="25dp"
+        style="@style/NormalWhiteText16"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+        </RelativeLayout>
+        
+    
+    </LinearLayout>
+</LinearLayout>
+</LinearLayout>
+<com.sz.ktv.view.widget.KtvBottomPageWidget
+    android:layout_width="match_parent"
+    	android:layout_height="50dp"
+    	android:id="@+id/remen_back"
+    	android:layout_alignParentBottom="true"
+    />
+</RelativeLayout>

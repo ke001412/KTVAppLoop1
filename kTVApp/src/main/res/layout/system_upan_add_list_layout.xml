@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/houtai"
+    >
+    <TextView 
+          android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_alignParentTop="true"
+    android:text="单曲加歌"
+    style="@style/BoldWhiteText24"
+    android:gravity="center"
+        />
+<RelativeLayout 
+    
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="60dp"
+    android:layout_marginBottom="35dp"
+    android:layout_marginLeft="60dp"
+    android:layout_marginRight="60dp"
+    >
+    <ListView 
+        android:id="@+id/file_list"
+         android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="@color/color_white"
+    android:dividerHeight="0.5dp"
+    android:listSelector="@null"
+        ></ListView>
+    
+ 
+</RelativeLayout>
+<com.sz.ktv.view.widget.KtvBottomPageWidget
+    android:layout_width="match_parent"
+    	android:layout_height="30dp"
+    	android:id="@+id/sys_u_addsong_back"
+    	android:layout_alignParentBottom="true"
+    	android:layout_marginBottom="50dp"
+    />
+</RelativeLayout>

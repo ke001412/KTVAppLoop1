@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/houtai"
+    >
+  
+ <RelativeLayout 
+     android:id="@+id/wifi_top"
+      android:layout_width="match_parent"
+    android:layout_height="35dp"
+    android:layout_marginLeft="65dp"
+    android:layout_marginRight="65dp"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="2dp"
+     >
+     <TextView 
+           android:layout_width="wrap_content"
+    android:layout_height="35dp"
+    android:text="IP:255.255.255.255"
+    style="@style/BoldWhiteText16"
+    android:layout_alignParentLeft="true"
+    android:gravity="center"
+         />
+       <TextView 
+           android:id="@+id/wifi_qrcode"
+           android:layout_width="wrap_content"
+    android:layout_height="35dp"
+    android:text="@string/ktv_yanzhengma"
+    style="@style/BoldWhiteText16"
+    android:layout_alignParentRight="true"
+    android:gravity="center"
+         />
+     
+ </RelativeLayout>
+  
+  <ScrollView 
+         android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     android:layout_marginTop="20dp"
+    android:layout_below="@id/wifi_top"
+     >
+ 
+    <RelativeLayout
+          android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+         >
+ <RelativeLayout 
+      android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:layout_alignParentLeft="true"
+    android:gravity="left|center"
+    android:id="@+id/wifi_qrcode_rel"
+     >
+     <RelativeLayout 
+         android:id="@+id/wifi_qrcode_layout"
+          android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    
+         >
+         <ImageView android:id="@+id/wifi_qrcode_img"
+              android:layout_width="55dp"
+    android:layout_height="55dp"
+   android:scaleType="fitXY"
+    android:layout_centerHorizontal="true"
+    android:background="@color/color_white"
+             />
+         <TextView 
+             android:layout_below="@id/wifi_qrcode_img"
+           android:id="@+id/wifi_qrcode"
+           android:layout_width="wrap_content"
+    android:layout_height="25dp"
+    android:text="@string/ktv_login_erweima"
+    style="@style/BoldWhiteText10"
+    android:gravity="center"
+    android:layout_centerHorizontal="true"
+         />
+     
+     </RelativeLayout>
+     
+     <RelativeLayout 
+        android:layout_centerHorizontal="true"
+          android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="40dp"
+    android:id="@+id/wifi_iphone_layout"
+         >
+         <ImageView android:id="@+id/wifi_qrcode_iphone_img"
+              android:layout_width="75dp"
+    android:layout_height="75dp"
+    android:scaleType="fitXY"
+    android:layout_centerHorizontal="true"
+    android:background="@color/color_white"
+             />
+         <TextView 
+             android:layout_below="@id/wifi_qrcode_iphone_img"
+           android:id="@+id/wifi_qrcode"
+           android:layout_width="wrap_content"
+    android:layout_height="25dp"
+    android:text="@string/ktv_iphone_down"
+    style="@style/BoldWhiteText10"
+    android:gravity="center"
+    android:layout_centerHorizontal="true"
+         />
+     
+     </RelativeLayout>
+     
+     <RelativeLayout 
+          android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="40dp"
+    android:layout_alignParentRight="true"
+    
+         >
+         <ImageView android:id="@+id/wifi_qrcode_android_img"
+              android:layout_width="75dp"
+    android:layout_height="75dp"
+    android:scaleType="fitXY"
+    android:layout_centerHorizontal="true"
+    android:background="@color/color_white"
+             />
+         <TextView 
+             android:layout_below="@id/wifi_qrcode_android_img"
+           android:id="@+id/wifi_qrcode"
+           android:layout_width="wrap_content"
+    android:layout_height="25dp"
+    android:text="@string/ktv_android_down"
+    style="@style/BoldWhiteText10"
+    android:gravity="center"
+    android:layout_centerHorizontal="true"
+         />
+     
+     </RelativeLayout>
+ </RelativeLayout>
+
+ <LinearLayout 
+      android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+  android:layout_below="@id/wifi_qrcode_rel"
+        android:layout_marginLeft="10dp"
+    android:layout_marginTop="5dp"
+     >
+     <TextView 
+          android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/ktv_wifi_buzhou_1"
+    style="@style/NormalWhiteText12"
+         />
+     <TextView 
+          android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/ktv_wifi_buzhou_2"
+    style="@style/NormalWhiteText12"
+    android:layout_marginTop="5dp"
+         />
+      <TextView 
+          android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/ktv_wifi_buzhou_3"
+    style="@style/NormalWhiteText12"
+    android:layout_marginTop="5dp"
+         />
+      <TextView 
+          android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/ktv_wifi_buzhou_4"
+    style="@style/NormalWhiteText12"
+    android:layout_marginTop="5dp"
+         />
+      <TextView 
+          android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="15dp"
+    android:text="@string/ktv_wifi_buzhou_zhuyi"
+    style="@style/NormalWhiteText12"
+    android:layout_marginBottom="5dp"
+         />
+      
+ </LinearLayout>
+ </RelativeLayout>
+ </ScrollView>
+</RelativeLayout>

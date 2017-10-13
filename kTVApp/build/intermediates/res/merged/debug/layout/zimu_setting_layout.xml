@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/houtai"
+    >
+    <TextView 
+          android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_alignParentTop="true"
+    android:text="@string/ktv_zimu_neirong"
+    style="@style/BoldWhiteText24"
+    android:gravity="center"
+        />
+<RelativeLayout 
+    
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="60dp"
+    android:layout_marginBottom="35dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    >
+    <LinearLayout 
+        android:layout_width="260dp"
+    android:layout_height="25dp"
+    android:orientation="horizontal"
+    android:layout_marginTop="30dp"
+    android:gravity="center"
+    android:id="@+id/password_top_text"
+    android:layout_centerHorizontal="true"
+        >
+ <TextView 
+     android:layout_width="wrap_content"
+    android:layout_height="35dp"
+    android:text="@string/ktv_zimu_shuru"
+    style="@style/NormalWhiteText16"
+    android:layout_gravity="center"
+     android:gravity="center"
+     />       
+   
+    </LinearLayout>
+
+
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="35dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:layout_below="@id/password_top_text"
+    >
+    
+     
+    
+    <RelativeLayout 
+         android:layout_width="wrap_content"
+    android:layout_height="35dp"
+    android:layout_below="@id/password_one_layout"
+    android:layout_centerHorizontal="true"
+        >
+    <LinearLayout 
+        android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:layout_centerHorizontal="true"
+    android:id="@+id/password_two_key"
+        >
+   <EditText 
+         android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:background="@color/color_blue"
+    android:id="@+id/zimu_text"
+       />
+    </LinearLayout>
+          
+    </RelativeLayout>
+    <RelativeLayout 
+              android:layout_alignParentBottom="true"
+        android:layout_width="260dp"
+    android:layout_height="45dp"
+    android:orientation="horizontal"
+     android:layout_centerHorizontal="true"
+        >
+  <Button 
+        android:layout_width="50dp"
+    android:layout_height="25dp"
+    android:text="@string/ktv_queding"
+     android:id="@+id/zimu_ok"
+    style="@style/NormalWhiteText16"
+    android:layout_alignParentLeft="true"
+    android:background="@color/color_dark_purple"
+    android:layout_centerVertical="true"
+      /> <Button 
+           android:layout_width="50dp"
+    android:layout_height="25dp"
+    android:text="@string/ktv_quxiao"
+     android:id="@+id/zimu_cancle"
+     style="@style/NormalWhiteText16"
+     android:layout_alignParentRight="true"
+     android:background="@color/color_dark_purple"
+    android:layout_centerVertical="true"
+      />
+    </RelativeLayout>
+</RelativeLayout>
+
+</RelativeLayout>
+
+ 
+<com.sz.ktv.view.widget.KtvBottomPageWidget
+    android:layout_width="match_parent"
+    	android:layout_height="30dp"
+    	android:id="@+id/zimu_back"
+    	android:layout_alignParentBottom="true"
+    	android:layout_marginBottom="10dp"
+    />
+</RelativeLayout>

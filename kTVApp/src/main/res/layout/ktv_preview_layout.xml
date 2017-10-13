@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="500dp"
+    android:layout_height="390dp"
+    android:id="@+id/pre_layout"
+    android:layout_gravity="center"
+    android:background="@color/transparent"
+      >
+
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="45dp"
+         android:background="@drawable/prev"
+        android:orientation="horizontal" >
+		<LinearLayout 
+		      android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+			android:layout_margin="8dp"
+		    >
+        <com.hisilicon.android.videoplayer.view.HisiVideoView
+            android:id="@+id/vide_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             />
+        </LinearLayout>
+    </LinearLayout>
+    
+    
+    <RelativeLayout
+        android:id="@+id/confirm_bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:background="@color/transparent"
+        android:layout_alignParentBottom="true" >
+
+        <RelativeLayout
+            android:id="@+id/pre_center"
+            android:layout_width="50dp"
+            android:layout_height="51dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/prev2_03" >
+
+            <TextView
+                 android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:text="点歌"
+                android:gravity="center"
+                style="@style/NormalBlackText16"
+                android:layout_width="40dp"
+                android:layout_height="40dp" />
+        </RelativeLayout>
+        
+          <RelativeLayout
+              android:id="@+id/song_charu"
+                android:layout_centerVertical="true"
+            android:layout_width="98dp"
+            android:layout_height="45dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentLeft="true"
+             android:layout_marginLeft="139dp"
+            android:background="@drawable/prev_03" >
+
+            <TextView
+                 android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+                android:layout_width="40dp"
+                android:text="插歌"
+                android:gravity="center"
+                style="@style/NormalBlackText16"
+                android:layout_height="40dp" />
+        </RelativeLayout>
+        
+          <RelativeLayout
+                android:id="@+id/song_shoucang"
+            android:layout_width="98dp"
+            android:layout_height="45dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="139dp"
+            android:background="@drawable/prev_05" >
+
+            <TextView
+                android:text="收藏"
+                android:gravity="center"
+                style="@style/NormalBlackText16"
+                 android:layout_centerVertical="true"
+            	android:layout_centerHorizontal="true"
+                android:layout_width="40dp"
+                android:layout_height="40dp" />
+        </RelativeLayout>
+        
+    </RelativeLayout>
+
+</RelativeLayout>

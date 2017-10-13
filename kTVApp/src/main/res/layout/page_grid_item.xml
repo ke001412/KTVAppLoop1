@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+     android:background="@drawable/guoyu"
+     android:orientation="horizontal"
+     
+    >
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentLeft="true"
+    android:id="@+id/geming_left_layout"
+    android:layout_weight="2.5"
+    >
+    <ImageView
+        android:id="@+id/geming_singer_img"
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+        android:background="@drawable/mtv"
+        
+         />
+    <TextView 
+        android:id="@+id/geming_tips"
+           android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/NormalRedText16"
+        android:text="操作完成"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:visibility="gone"
+        />
+    </RelativeLayout>
+
+<RelativeLayout
+       android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+    android:layout_toRightOf="@id/geming_left_layout"
+    android:id="@+id/geming_right_layout"
+    android:layout_weight="1"
+     >
+
+<RelativeLayout
+      android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_centerVertical="true"
+    android:id="@+id/song_layout"
+    android:layout_marginLeft="5dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="5dp"
+    android:layout_alignParentBottom="true"
+     >
+    <TextView
+    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/geming_singer_name"
+        android:text="刘德华"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        style="@style/NormalWhiteText16"
+        />
+      <TextView
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/geming_song_name"
+        android:text="冰雨"
+        android:gravity="center"
+        android:singleLine="true"
+		android:ellipsize="end"
+        style="@style/NormalWhiteText16"
+        />
+</RelativeLayout>
+
+<RelativeLayout
+      android:layout_width="60dp"
+        android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_centerVertical="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="10dp"
+    android:layout_alignParentRight="true"
+    android:layout_marginRight="30dp"
+     >
+    <TextView
+    android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:text="预"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+		android:textColor="#40DAFF"
+		android:textSize="18dp"
+		android:textStyle="bold"
+        android:id="@+id/geming_yulan"
+        android:layout_alignParentLeft="true"
+        />
+      <TextView
+          android:layout_marginLeft="10dp"
+          android:layout_toRightOf="@id/geming_yulan"
+         android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/geming_song_language"
+        android:text="国"
+        android:gravity="center"
+       android:textSize="18dp"
+		android:textStyle="bold"
+		android:textColor="@color/color_white"
+        android:layout_centerHorizontal="true"
+        />
+</RelativeLayout>
+</RelativeLayout>
+</LinearLayout>
