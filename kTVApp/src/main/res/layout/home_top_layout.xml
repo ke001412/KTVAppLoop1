@@ -128,16 +128,15 @@
          android:id="@+id/scroll_text"
         android:layout_width="wrap_content"
         android:layout_height="40dp"
-         android:visibility="gone"
         customAttr:clickEnable="false"
         customAttr:isHorizontal="true"
         android:layout_gravity="center"
         customAttr:speed="1"
         customAttr:text="当前播放: 蓝莲花"
-        customAttr:textColor="#ff00ff00"
+        customAttr:textColor="#ffffffff"
         customAttr:textSize="20dp"
         customAttr:times="1567" />
-
+<!--
         <TextView
             android:id="@+id/scroll_text_1"
             android:layout_width="wrap_content"
@@ -151,5 +150,6 @@
             android:textSize="20sp"
             android:marqueeRepeatLimit ="marquee_forever"
             />
+            -->
     </LinearLayout>
 </RelativeLayout>
