@@ -230,6 +230,5 @@
 <!--     add -->
 	<string name="ktv_geming_dg_all">点歌->歌名点歌-全部</string>
 	<string name="ktv_gexing_dg_all">点歌->歌星点歌-全部</string>
-	
-	
+    <string name="play_empty">当前暂无可以播放歌曲</string>
 </resources>

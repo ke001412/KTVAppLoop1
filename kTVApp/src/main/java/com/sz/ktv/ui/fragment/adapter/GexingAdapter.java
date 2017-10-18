@@ -32,6 +32,7 @@ import com.sz.ktv.msg.AsyncMessage;
 import com.sz.ktv.msg.SongTypeMessage;
 import com.sz.ktv.ui.fragment.HomeGeMingFragment;
 import com.sz.ktv.ui.fragment.adapter.AsyncImageLoader.ImageCallback;
+import com.sz.ktv.util.DebugUtil;
 import com.sz.ktv.util.FragmentFactory;
 import com.sz.ktv.util.Global;
 import com.sz.ktv.util.LogUtil;
@@ -121,26 +122,41 @@ public class GexingAdapter extends BaseAdapter {
     public View getView(int position, View view, ViewGroup parent) {
         //zhangke add 20171012 for faster begin
         ViewHolder viewHolder;
+        LogUtil.log(TAG, "getview begin");
         if (view == null) {
             viewHolder = new ViewHolder();
-            view = Global.currentActivity.getLayoutInflater().inflate(R.layout.gexing_item,
-                    parent, false);
-            ViewGroup.LayoutParams layoutParams = view.getLayoutParams();
-            layoutParams.height = (parent.getHeight() - 40) / 2;// 计算每一行的高度
-            view.setLayoutParams(layoutParams);
+            LogUtil.log(TAG, "getview 111");
+            if(DebugUtil.IS_DEBUG) {
+                view = mInflater.inflate(R.layout.gexing_item,
+                        parent, false);
+            }else{
+                view = Global.currentActivity.getLayoutInflater().inflate(R.layout.gexing_item,
+                        parent, false);
+            }
+            LogUtil.log(TAG, "getview 222");
+            if(!DebugUtil.IS_DEBUG) {
+                ViewGroup.LayoutParams layoutParams = view.getLayoutParams();
+                layoutParams.height = (parent.getHeight() - 40) / 2;// 计算每一行的高度
+                view.setLayoutParams(layoutParams);
+            }
+            LogUtil.log(TAG, "getview 333");
             viewHolder.iv =(ImageView) view.findViewById(R.id.singer_img);
             viewHolder.tv = (TextView) view.findViewById(R.id.singer_name);
+            LogUtil.log(TAG, "getview 444");
             view.setTag(R.id.view_tag_1, viewHolder);
             LogUtil.log(TAG, "getview 1");
         }else{
             viewHolder = (ViewHolder) view.getTag(R.id.view_tag_1);
-        }
-        if (null != view && view.getHeight() == 0) {// 第一次调用getView时，parent的高度还是0,所以这里需要判断一下，并且重新设置，否则第一个子项显示不出来
-            ViewGroup.LayoutParams layoutParams = view.getLayoutParams();
-            layoutParams.height = (parent.getHeight() - 40) / 2;
-            view.setLayoutParams(layoutParams);
             LogUtil.log(TAG, "getview 2");
         }
+if(!DebugUtil.IS_DEBUG) {
+    if (null != view && view.getHeight() == 0) {// 第一次调用getView时，parent的高度还是0,所以这里需要判断一下，并且重新设置，否则第一个子项显示不出来
+        ViewGroup.LayoutParams layoutParams = view.getLayoutParams();
+        layoutParams.height = (parent.getHeight() - 40) / 2;
+        view.setLayoutParams(layoutParams);
+        LogUtil.log(TAG, "getview 3");
+    }
+}
 
         Singer singer = singerList.get(position);
 
@@ -148,7 +164,9 @@ public class GexingAdapter extends BaseAdapter {
         String singerId = singer.getSinger_no();
         String filepath = DataBase.MNT_SDA_SINGER_PATH + "" + singer.getSinger_type() + "/" + singer.getSinger_type() + "" + singerId + ".jpg";
         File file = new File(filepath);
+        LogUtil.log(TAG, "getView load image begin");
         if (file.exists()) Glide.with(mContext).load(file).into(viewHolder.iv);
+        LogUtil.log(TAG, "getView load image end");
 //		 Bitmap bmp = mLoadImage.loadBitmap(iv, filepath, true);
 //	        if(bmp == null) {
 //	        	iv.setBackgroundResource(R.drawable.default_singer);
@@ -205,6 +223,7 @@ public class GexingAdapter extends BaseAdapter {
             }
         });
         //zhangke add 20171012 for faster end
+        LogUtil.log(TAG, "getview end");
         return view;
     }
 

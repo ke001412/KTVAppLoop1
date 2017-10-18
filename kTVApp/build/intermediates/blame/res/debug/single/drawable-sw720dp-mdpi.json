@@ -1,0 +1,766 @@
+[
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\left.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\left.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\icon_enter_32dp.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\icon_enter_32dp.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\bar_jindutiao.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\bar_jindutiao.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paihang1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paihang1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\remen_wsgs.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\remen_wsgs.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\fanhui.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\fanhui.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\jingyin2.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\jingyin2.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qifen_bg1_27.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qifen_bg1_27.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\geming2.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\geming2.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\tunebar2.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\tunebar2.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing2.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing2.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\key.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\key.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yun_wu_13.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yun_wu_13.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\xiqing.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\xiqing.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_shuchu.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_shuchu.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuqu1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuqu1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\jingyin3.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\jingyin3.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\xiaoxi1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\xiaoxi1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yinjian.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yinjian.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\flower4.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\flower4.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing3.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing3.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\jingyin1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\jingyin1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\remen.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\remen.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\daohang_03.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\daohang_03.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qifen_bg1_11.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qifen_bg1_11.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\daohang_06.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\daohang_06.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\movies.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\movies.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\remen_zghsy.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\remen_zghsy.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\daohang_22.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\daohang_22.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qifen_bg1_25.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qifen_bg1_25.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\gengduo.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\gengduo.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_u_pan.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_u_pan.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\pre_shoucang1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\pre_shoucang1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\chage1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\chage1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\bofang.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\bofang.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yuyan_bg5_09.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yuyan_bg5_09.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qifen_bg1_09.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qifen_bg1_09.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paihang3.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paihang3.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\shanchu.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\shanchu.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yun_wu.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yun_wu.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yuyan_bg5_11.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yuyan_bg5_11.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\pre_shoucang_del_1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\pre_shoucang_del_1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\button.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\button.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_pingfen.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_pingfen.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_zimu.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_zimu.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yuanchang.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yuanchang.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\pre_shoucang_del.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\pre_shoucang_del.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\gexing.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\gexing.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\daohang1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\daohang1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\flower2.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\flower2.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing5.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing5.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qifen.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qifen.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\dialog_bottom_line.9.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\dialog_bottom_line.9.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_song_mod.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_song_mod.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_gongbo.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_gongbo.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qiege.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qiege.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\jingyin.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\jingyin.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_wangluo.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_wangluo.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuqu8.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuqu8.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\shanchu1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\shanchu1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\fanhui1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\fanhui1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\prev_03.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\prev_03.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing6.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing6.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\keyboard_press.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\keyboard_press.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\jindutiao_bg.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\jindutiao_bg.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_shengji.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_shengji.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuqu.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuqu.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\flower1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\flower1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\bg.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paihang4.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paihang4.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\geming.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\geming.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\ic_dialog_keyboard.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\ic_dialog_keyboard.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\banchang.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\banchang.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paihang.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paihang.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\keyboard_backspace.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\keyboard_backspace.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\zanting.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\zanting.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\hd.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\hd.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\xiaoxi.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\xiaoxi.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\mtv.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\mtv.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\dian.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\dian.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yunfuwu.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yunfuwu.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\huaijiu.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\huaijiu.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuqu5.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuqu5.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuxian.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuxian.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuqu2.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuqu2.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\daohang_19.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\daohang_19.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\back_right1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\back_right1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yidian.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yidian.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\pre_shoucang.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\pre_shoucang.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yun_wu_09.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yun_wu_09.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\bofang1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\bofang1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\back_left1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\back_left1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\daohang.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\daohang.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\icon.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\remen_zghgq.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\remen_zghgq.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing10.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing10.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuqu6.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuqu6.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\xinge.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\xinge.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\delte.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\delte.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\daohang_12.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\daohang_12.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\diange1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\diange1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\keyboard_normal.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\keyboard_normal.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qifen_bg1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qifen_bg1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yinjia.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yinjia.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sousuo.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sousuo.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\quzhong.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\quzhong.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuxian1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuxian1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paoma.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paoma.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yuanchang1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yuanchang1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing9.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing9.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\prev2_03.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\prev2_03.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paihang7.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paihang7.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qifen1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qifen1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_delete.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_delete.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuqu7.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuqu7.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\remen_zmhs.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\remen_zmhs.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\shouye1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\shouye1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\chage.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\chage.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\ertong.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\ertong.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\xiqu.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\xiqu.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\right.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\right.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_chumo.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_chumo.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing12.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing12.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\shezhi.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\shezhi.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\houtai.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\houtai.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\icon_delete_32dp.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\icon_delete_32dp.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\prev.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\prev.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_gedan.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_gedan.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paihang6.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paihang6.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qiege1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qiege1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yuyan_bg5.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yuyan_bg5.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\prev_05.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\prev_05.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\singer.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\singer.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing8.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing8.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\remen_mmgw.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\remen_mmgw.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\chongchang.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\chongchang.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\banchang1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\banchang1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\back_right.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\back_right.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\add_usb1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\add_usb1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuqu3.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuqu3.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yidian1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yidian1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yun_wu_11.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yun_wu_11.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\add_usb.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\add_usb.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\tune1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\tune1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\chabo.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\chabo.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_mima.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_mima.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\diange.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\diange.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\tunebar4.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\tunebar4.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\xiangsheng.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\xiangsheng.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qifen_bg1_23.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qifen_bg1_23.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\more_bg.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\more_bg.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yinjia1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yinjia1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yunfuwu1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yunfuwu1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuxian2.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuxian2.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yinjian1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yinjian1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\daohang_15.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\daohang_15.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\gengduo1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\gengduo1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\back_left.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\back_left.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\ic_launcher.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\tune.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\tune.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\shoucang.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\shoucang.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\tunebar3.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\tunebar3.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\yuyan_bg5_13.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\yuyan_bg5_13.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\chongchang1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\chongchang1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\wuqu4.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\wuqu4.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\default_singer.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\default_singer.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\zanting1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\zanting1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_logo.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_logo.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paihang5.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paihang5.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paihang2.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paihang2.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\hechang.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\hechang.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sousuo1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sousuo1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\chabo1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\chabo1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing4.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing4.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing7.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing7.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\remen_mxxdd.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\remen_mxxdd.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\paihang8.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\paihang8.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\shouye.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\shouye.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_gexing.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_gexing.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\flower3.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\flower3.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\sys_u_chage.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\sys_u_chage.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\daohang_08.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\daohang_08.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\shengri.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\shengri.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\biaoqing11.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\biaoqing11.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\remen_zgyc.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\remen_zgyc.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\msg_bg.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\msg_bg.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\guoyu.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\guoyu.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\movies1.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\movies1.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\qifen_bg1_13.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\qifen_bg1_13.png"
+    },
+    {
+        "merged": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\remen_zgzqy.png",
+        "source": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\drawable-sw720dp-mdpi\\remen_zgzqy.png"
+    }
+]

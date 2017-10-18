@@ -280,4 +280,5 @@
         <item name="android:backgroundDimEnabled">true</item>
         <!-- 模糊 -->
     </style>
+	<string name="play_empty">No selected song can be played</string>
 </resources>

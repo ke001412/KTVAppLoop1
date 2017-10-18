@@ -16,6 +16,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
+import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 
 import com.sz.ktv.MainActivity;
@@ -41,18 +42,18 @@ public class HomeCenterFragment extends BaseFragment implements OnClickListener 
     private List<View> viewList;//view数组  
     private ViewPagerAdapter pageAdapter;
     
-    RelativeLayout viewGexing;
-    RelativeLayout viewXinge;
-    RelativeLayout viewLeibie;
-    RelativeLayout viewPaihang;
-    RelativeLayout viewGeming;
-    RelativeLayout viewGaoqing;
-    RelativeLayout viewShezhi;
-    RelativeLayout viewRemen;
-    RelativeLayout viewWuqu;
-    RelativeLayout viewShoucang;
-    
-    RelativeLayout [] viewArrays;
+    FrameLayout viewGexing;
+	FrameLayout viewXinge;
+	FrameLayout viewLeibie;
+	FrameLayout viewPaihang;
+	FrameLayout viewGeming;
+	FrameLayout viewGaoqing;
+	FrameLayout viewShezhi;
+	FrameLayout viewRemen;
+	FrameLayout viewWuqu;
+	FrameLayout viewShoucang;
+
+	FrameLayout [] viewArrays;
     
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -120,18 +121,18 @@ public class HomeCenterFragment extends BaseFragment implements OnClickListener 
 	};
 	private void initView(int arg0) {
 		View view = viewList.get(arg0);
-		viewGexing = (RelativeLayout)view.findViewById(R.id.home_center_gexing);
-		viewXinge = (RelativeLayout)view.findViewById(R.id.home_center_xinge);
-		viewLeibie = (RelativeLayout)view.findViewById(R.id.home_center_leibie);
-		viewPaihang = (RelativeLayout)view.findViewById(R.id.home_center_paihang);
-		viewGeming = (RelativeLayout)view.findViewById(R.id.home_center_geming);
-		viewGaoqing = (RelativeLayout)view.findViewById(R.id.home_center_gaoqing);
-		viewShezhi = (RelativeLayout)view.findViewById(R.id.home_center_shezhi);
-		viewRemen = (RelativeLayout)view.findViewById(R.id.home_center_remen);
-		viewWuqu = (RelativeLayout)view.findViewById(R.id.home_center_wuqu);
-		viewShoucang = (RelativeLayout)view.findViewById(R.id.home_center_shoucang);
+		viewGexing = (FrameLayout)view.findViewById(R.id.home_center_gexing);
+		viewXinge = (FrameLayout)view.findViewById(R.id.home_center_xinge);
+		viewLeibie = (FrameLayout)view.findViewById(R.id.home_center_leibie);
+		viewPaihang = (FrameLayout)view.findViewById(R.id.home_center_paihang);
+		viewGeming = (FrameLayout)view.findViewById(R.id.home_center_geming);
+		viewGaoqing = (FrameLayout)view.findViewById(R.id.home_center_gaoqing);
+		viewShezhi = (FrameLayout)view.findViewById(R.id.home_center_shezhi);
+		viewRemen = (FrameLayout)view.findViewById(R.id.home_center_remen);
+		viewWuqu = (FrameLayout)view.findViewById(R.id.home_center_wuqu);
+		viewShoucang = (FrameLayout)view.findViewById(R.id.home_center_shoucang);
 		
-		viewArrays = new RelativeLayout[10];
+		viewArrays = new FrameLayout[10];
 		viewArrays[0]=viewGexing;
 		viewArrays[1]=viewXinge;
 		viewArrays[2]=viewLeibie;

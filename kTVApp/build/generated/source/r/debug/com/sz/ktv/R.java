@@ -167,15 +167,20 @@ containing a value of this type.
         public static final int SPEED_STEP=0x7f070000;
         public static final int activity_horizontal_margin=0x7f070001;
         public static final int activity_vertical_margin=0x7f070002;
-        public static final int font_size=0x7f070003;
-        public static final int input_dialog_btn_hight=0x7f070004;
-        public static final int input_dialog_btn_width=0x7f070005;
-        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f070006;
-        public static final int item_touch_helper_swipe_escape_max_velocity=0x7f070007;
-        public static final int item_touch_helper_swipe_escape_velocity=0x7f070008;
-        public static final int key_height=0x7f070009;
-        public static final int max_width=0x7f07000a;
-        public static final int min_width=0x7f07000b;
+        public static final int bottom_nav_imame_height=0x7f070003;
+        public static final int bottom_nav_imame_width=0x7f070004;
+        public static final int center_main_margin=0x7f070005;
+        public static final int font_size=0x7f070006;
+        public static final int input_dialog_btn_hight=0x7f070007;
+        public static final int input_dialog_btn_width=0x7f070008;
+        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f070009;
+        public static final int item_touch_helper_swipe_escape_max_velocity=0x7f07000a;
+        public static final int item_touch_helper_swipe_escape_velocity=0x7f07000b;
+        public static final int key_height=0x7f07000c;
+        public static final int max_width=0x7f07000d;
+        public static final int min_width=0x7f07000e;
+        public static final int top_nav_imame_height=0x7f07000f;
+        public static final int top_nav_imame_width=0x7f070010;
     }
     public static final class drawable {
         public static final int add_usb=0x7f020000;
@@ -735,6 +740,8 @@ containing a value of this type.
         public static final int pingfen_open=0x7f080157;
         public static final int pingfen_open_show=0x7f080159;
         public static final int pingfen_open_tv=0x7f080158;
+        public static final int play_title=0x7f080102;
+        public static final int play_title_layout=0x7f080101;
         public static final int pre_center=0x7f080126;
         public static final int pre_layout=0x7f080027;
         public static final int progress=0x7f080135;
@@ -762,8 +769,6 @@ containing a value of this type.
         public static final int remen_zgzqy=0x7f080170;
         public static final int remen_zmhs=0x7f08016e;
         public static final int scroll_layout=0x7f080055;
-        public static final int scroll_text=0x7f080101;
-        public static final int scroll_text_1=0x7f080102;
         public static final int search_1=0x7f0800ef;
         public static final int search_2=0x7f0800f0;
         public static final int search_3=0x7f0800f1;
@@ -1136,9 +1141,9 @@ containing a value of this type.
         public static final int home_center_shoucang=0x7f05001a;
         public static final int home_center_wuqu=0x7f05001b;
         public static final int home_center_xinge=0x7f05001c;
-        public static final int input_dialog_btn_text=0x7f0500e3;
-        public static final int input_dialog_et_hint_str=0x7f0500e4;
-        public static final int input_dialog_title_str=0x7f0500e5;
+        public static final int input_dialog_btn_text=0x7f0500e4;
+        public static final int input_dialog_et_hint_str=0x7f0500e5;
+        public static final int input_dialog_title_str=0x7f0500e6;
         public static final int ktv_all_gexing=0x7f05001d;
         public static final int ktv_android_down=0x7f05001e;
         public static final int ktv_bazibu=0x7f05001f;
@@ -1337,6 +1342,7 @@ containing a value of this type.
         public static final int ktv_zishu=0x7f0500e0;
         public static final int ktv_zuimeihesheng=0x7f0500e1;
         public static final int ktv_zuoshengdao=0x7f0500e2;
+        public static final int play_empty=0x7f0500e3;
     }
     public static final class style {
         public static final int AnimationPreview=0x7f090000;

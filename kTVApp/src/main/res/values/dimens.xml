@@ -3,15 +3,19 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-  <dimen name="key_height">50.0dip</dimen>
-  
-  <dimen name="max_width">20.0dip</dimen>
+    <dimen name="key_height">50.0dip</dimen>
+
+    <dimen name="max_width">20.0dip</dimen>
     <dimen name="min_width">6.0dip</dimen>
     <dimen name="font_size">18.0dip</dimen>
     <dimen name="SPEED_STEP">40.0dip</dimen>
-    
-     
+
+
     <dimen name="input_dialog_btn_width">100dp</dimen>
     <dimen name="input_dialog_btn_hight">40dp</dimen>
-    
+    <dimen name="top_nav_imame_width">42dip</dimen>
+    <dimen name="top_nav_imame_height">34dip</dimen>
+    <dimen name="bottom_nav_imame_width">42dip</dimen>
+    <dimen name="bottom_nav_imame_height">48dip</dimen>
+    <dimen name="center_main_margin">6dip</dimen>
 </resources>

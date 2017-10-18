@@ -43,6 +43,9 @@
     <dimen name="SPEED_STEP">40.0dip</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bottom_nav_imame_height">48dip</dimen>
+    <dimen name="bottom_nav_imame_width">42dip</dimen>
+    <dimen name="center_main_margin">6dip</dimen>
     <dimen name="font_size">18.0dip</dimen>
     <dimen name="input_dialog_btn_hight">40dp</dimen>
     <dimen name="input_dialog_btn_width">100dp</dimen>
@@ -52,6 +55,8 @@
     <dimen name="key_height">50.0dip</dimen>
     <dimen name="max_width">20.0dip</dimen>
     <dimen name="min_width">6.0dip</dimen>
+    <dimen name="top_nav_imame_height">34dip</dimen>
+    <dimen name="top_nav_imame_width">42dip</dimen>
     <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="view_tag_1" type="id"/>
     <item name="view_tag_2" type="id"/>
@@ -283,6 +288,7 @@
     <string name="ktv_zishu">Word</string>
     <string name="ktv_zuimeihesheng">Duets</string>
     <string name="ktv_zuoshengdao">Left</string>
+    <string name="play_empty">No selected song can be played</string>
     <style name="AnimationPreview">
         <item name="android:windowEnterAnimation">@anim/fade_in</item>
     </style>

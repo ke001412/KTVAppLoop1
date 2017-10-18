@@ -227,4 +227,5 @@
     <string name="ktv_zishu">字数</string>
     <string name="ktv_zuimeihesheng">最美和声</string>
     <string name="ktv_zuoshengdao">左声道</string>
+    <string name="play_empty">当前暂无可以播放歌曲</string>
 </resources>

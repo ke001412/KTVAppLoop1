@@ -260,4 +260,5 @@
 	<string name="ktv_zimu_neirong">字幕內容修改</string>
 	<string name="ktv_zimu_shuru">請在下麵輸入滾動字幕的內容:</string>
 	<string name="ktv_shoucang_mima">請輸入收藏手機號</string>
+	<string name="play_empty">當前暫無可播放歌曲</string>
 </resources>

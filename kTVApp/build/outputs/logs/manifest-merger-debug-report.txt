@@ -33,8 +33,8 @@ ADDED from D:\android\workspace\KTVAppLoop1\kTVApp\src\main\AndroidManifest.xml:
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Administrator\.android\build-cache\7d26f30f309b255b87785c1969c568d0367e1cd1\output\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from D:\android\workspace\KTVAppLoop1\kTVApp\src\main\AndroidManifest.xml:17:9-41
-	android:debuggable
-		ADDED from D:\android\workspace\KTVAppLoop1\kTVApp\src\main\AndroidManifest.xml:14:9-34
+	android:hardwareAccelerated
+		ADDED from D:\android\workspace\KTVAppLoop1\kTVApp\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
 		ADDED from D:\android\workspace\KTVAppLoop1\kTVApp\src\main\AndroidManifest.xml:13:9-35
 	android:icon

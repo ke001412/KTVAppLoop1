@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="25"
+    abi="x86"
+    api-level="24"
     build-mode="FULL"
-    density="xxhdpi"
+    density="mdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1507816418921"
+    timestamp="1508157379100"
     token="-5515685002303885230"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,14 +18,26 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="161" />
     <task
         name="verifier"
-        duration="0" />
+        duration="215" />
 
+    <artifact
+        location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
     <artifact
         location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
+    <artifact
+        location="D:\android\workspace\KTVAppLoop1\kTVApp\build\outputs\apk\kTVApp-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
@@ -42,31 +54,31 @@
         location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
         location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
         location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
-    <artifact
-        location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\android\workspace\KTVAppLoop1\kTVApp\build\outputs\apk\kTVApp-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1507816418921"
+        timestamp="1508157379100"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
         <artifact
             location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
+        <artifact
+            location="D:\android\workspace\KTVAppLoop1\kTVApp\build\outputs\apk\kTVApp-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
@@ -83,23 +95,11 @@
             location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
-        <artifact
-            location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\android\workspace\KTVAppLoop1\kTVApp\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\android\workspace\KTVAppLoop1\kTVApp\build\outputs\apk\kTVApp-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
