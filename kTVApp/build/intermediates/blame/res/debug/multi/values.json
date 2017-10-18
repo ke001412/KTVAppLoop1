@@ -379,8 +379,8 @@
                     "startLine": 33,
                     "startColumn": 4,
                     "startOffset": 1562,
-                    "endColumn": 45,
-                    "endOffset": 1603
+                    "endColumn": 47,
+                    "endOffset": 1605
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\color.xml"
@@ -390,9 +390,9 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 1608,
+                    "startOffset": 1610,
                     "endColumn": 46,
-                    "endOffset": 1650
+                    "endOffset": 1652
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\color.xml"
@@ -402,9 +402,9 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 1655,
+                    "startOffset": 1657,
                     "endColumn": 56,
-                    "endOffset": 1707
+                    "endOffset": 1709
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\color.xml"
@@ -414,9 +414,9 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 1712,
+                    "startOffset": 1714,
                     "endColumn": 42,
-                    "endOffset": 1750
+                    "endOffset": 1752
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\color.xml"
@@ -426,9 +426,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 1755,
+                    "startOffset": 1757,
                     "endColumn": 47,
-                    "endOffset": 1798
+                    "endOffset": 1800
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\color.xml"
@@ -438,9 +438,9 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 1803,
+                    "startOffset": 1805,
                     "endColumn": 48,
-                    "endOffset": 1847
+                    "endOffset": 1849
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\color.xml"
@@ -450,9 +450,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2627,
+                    "startOffset": 2629,
                     "endColumn": 44,
-                    "endOffset": 2667
+                    "endOffset": 2669
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -462,9 +462,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2672,
+                    "startOffset": 2674,
                     "endColumn": 57,
-                    "endOffset": 2725
+                    "endOffset": 2727
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -474,9 +474,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2730,
+                    "startOffset": 2732,
                     "endColumn": 55,
-                    "endOffset": 2781
+                    "endOffset": 2783
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -486,9 +486,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2786,
+                    "startOffset": 2788,
                     "endColumn": 55,
-                    "endOffset": 2837
+                    "endOffset": 2839
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -498,9 +498,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 2842,
+                    "startOffset": 2844,
                     "endColumn": 54,
-                    "endOffset": 2892
+                    "endOffset": 2894
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -510,28 +510,21 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 2897,
+                    "startOffset": 2899,
                     "endColumn": 49,
-                    "endOffset": 2942
+                    "endOffset": 2944
                 },
                 "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 771,
-                        "endColumn": 49,
-                        "endOffset": 816
-                    }
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 2947,
+                    "startOffset": 2949,
                     "endColumn": 43,
-                    "endOffset": 2986
+                    "endOffset": 2988
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -541,9 +534,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 2991,
+                    "startOffset": 2993,
                     "endColumn": 53,
-                    "endOffset": 3040
+                    "endOffset": 3042
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -553,9 +546,9 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3045,
-                    "endColumn": 54,
-                    "endOffset": 3095
+                    "startOffset": 3047,
+                    "endColumn": 53,
+                    "endOffset": 3096
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -565,33 +558,52 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3100,
-                    "endColumn": 74,
-                    "endOffset": 3170
+                    "startOffset": 3101,
+                    "endColumn": 50,
+                    "endOffset": 3147
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\fd7513980836100a4f74c280c799698bea537b25\\output\\res\\values\\values.xml"
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 50,
+                        "endOffset": 980
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 3175,
-                    "endColumn": 75,
-                    "endOffset": 3246
+                    "startOffset": 3152,
+                    "endColumn": 53,
+                    "endOffset": 3201
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\fd7513980836100a4f74c280c799698bea537b25\\output\\res\\values\\values.xml"
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 3251,
-                    "endColumn": 71,
-                    "endOffset": 3318
+                    "startOffset": 3206,
+                    "endColumn": 54,
+                    "endOffset": 3256
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3261,
+                    "endColumn": 74,
+                    "endOffset": 3331
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\.android\\build-cache\\fd7513980836100a4f74c280c799698bea537b25\\output\\res\\values\\values.xml"
@@ -599,26 +611,14 @@
             },
             {
                 "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 3323,
-                    "endColumn": 44,
-                    "endOffset": 3363
-                },
-                "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 3368,
-                    "endColumn": 43,
+                    "startOffset": 3336,
+                    "endColumn": 75,
                     "endOffset": 3407
                 },
                 "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\fd7513980836100a4f74c280c799698bea537b25\\output\\res\\values\\values.xml"
                 }
             },
             {
@@ -626,20 +626,20 @@
                     "startLine": 56,
                     "startColumn": 4,
                     "startOffset": 3412,
-                    "endColumn": 42,
-                    "endOffset": 3450
+                    "endColumn": 71,
+                    "endOffset": 3479
                 },
                 "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\fd7513980836100a4f74c280c799698bea537b25\\output\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 3455,
-                    "endColumn": 52,
-                    "endOffset": 3503
+                    "startOffset": 3484,
+                    "endColumn": 44,
+                    "endOffset": 3524
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -649,9 +649,9 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 3508,
-                    "endColumn": 51,
-                    "endOffset": 3555
+                    "startOffset": 3529,
+                    "endColumn": 43,
+                    "endOffset": 3568
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
@@ -661,9 +661,45 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 3560,
+                    "startOffset": 3573,
+                    "endColumn": 42,
+                    "endOffset": 3611
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3616,
+                    "endColumn": 52,
+                    "endOffset": 3664
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3669,
+                    "endColumn": 51,
+                    "endOffset": 3716
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3721,
                     "endColumn": 65,
-                    "endOffset": 3621
+                    "endOffset": 3782
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\.android\\build-cache\\fd7513980836100a4f74c280c799698bea537b25\\output\\res\\values\\values.xml"
@@ -671,71 +707,35 @@
             },
             {
                 "to": {
-                    "startLine": 60,
-                    "startColumn": 4,
-                    "startOffset": 3626,
-                    "endColumn": 39,
-                    "endOffset": 3661
-                },
-                "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\attrs.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 61,
-                    "startColumn": 4,
-                    "startOffset": 3666,
-                    "endColumn": 39,
-                    "endOffset": 3701
-                },
-                "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\attrs.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 62,
-                    "startColumn": 4,
-                    "startOffset": 3706,
-                    "endColumn": 43,
-                    "endOffset": 3745
-                },
-                "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 3750,
-                    "endColumn": 56,
-                    "endOffset": 3802
+                    "startOffset": 3787,
+                    "endColumn": 39,
+                    "endOffset": 3822
                 },
                 "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\attrs.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 3807,
-                    "endColumn": 54,
-                    "endOffset": 3857
+                    "startOffset": 3827,
+                    "endColumn": 39,
+                    "endOffset": 3862
                 },
                 "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\attrs.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 3862,
-                    "endColumn": 52,
-                    "endOffset": 3910
+                    "startOffset": 3867,
+                    "endColumn": 43,
+                    "endOffset": 3906
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -745,8 +745,8 @@
                 "to": {
                     "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 3915,
-                    "endColumn": 52,
+                    "startOffset": 3911,
+                    "endColumn": 56,
                     "endOffset": 3963
                 },
                 "from": {
@@ -758,8 +758,8 @@
                     "startLine": 67,
                     "startColumn": 4,
                     "startOffset": 3968,
-                    "endColumn": 52,
-                    "endOffset": 4016
+                    "endColumn": 54,
+                    "endOffset": 4018
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -769,9 +769,9 @@
                 "to": {
                     "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 4021,
+                    "startOffset": 4023,
                     "endColumn": 52,
-                    "endOffset": 4069
+                    "endOffset": 4071
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -781,9 +781,9 @@
                 "to": {
                     "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 4074,
-                    "endColumn": 53,
-                    "endOffset": 4123
+                    "startOffset": 4076,
+                    "endColumn": 52,
+                    "endOffset": 4124
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -793,9 +793,9 @@
                 "to": {
                     "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 4128,
-                    "endColumn": 50,
-                    "endOffset": 4174
+                    "startOffset": 4129,
+                    "endColumn": 52,
+                    "endOffset": 4177
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -805,9 +805,9 @@
                 "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 4179,
-                    "endColumn": 50,
-                    "endOffset": 4225
+                    "startOffset": 4182,
+                    "endColumn": 52,
+                    "endOffset": 4230
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -817,9 +817,9 @@
                 "to": {
                     "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 4230,
-                    "endColumn": 51,
-                    "endOffset": 4277
+                    "startOffset": 4235,
+                    "endColumn": 53,
+                    "endOffset": 4284
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -829,9 +829,9 @@
                 "to": {
                     "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 4282,
-                    "endColumn": 55,
-                    "endOffset": 4333
+                    "startOffset": 4289,
+                    "endColumn": 50,
+                    "endOffset": 4335
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -841,9 +841,9 @@
                 "to": {
                     "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 4338,
-                    "endColumn": 53,
-                    "endOffset": 4387
+                    "startOffset": 4340,
+                    "endColumn": 50,
+                    "endOffset": 4386
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -853,9 +853,9 @@
                 "to": {
                     "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 4392,
-                    "endColumn": 54,
-                    "endOffset": 4442
+                    "startOffset": 4391,
+                    "endColumn": 51,
+                    "endOffset": 4438
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -865,8 +865,8 @@
                 "to": {
                     "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 4447,
-                    "endColumn": 51,
+                    "startOffset": 4443,
+                    "endColumn": 55,
                     "endOffset": 4494
                 },
                 "from": {
@@ -878,8 +878,8 @@
                     "startLine": 77,
                     "startColumn": 4,
                     "startOffset": 4499,
-                    "endColumn": 54,
-                    "endOffset": 4549
+                    "endColumn": 53,
+                    "endOffset": 4548
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -889,9 +889,9 @@
                 "to": {
                     "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 4554,
-                    "endColumn": 55,
-                    "endOffset": 4605
+                    "startOffset": 4553,
+                    "endColumn": 54,
+                    "endOffset": 4603
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -901,9 +901,9 @@
                 "to": {
                     "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 4610,
-                    "endColumn": 53,
-                    "endOffset": 4659
+                    "startOffset": 4608,
+                    "endColumn": 51,
+                    "endOffset": 4655
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -913,9 +913,9 @@
                 "to": {
                     "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 4664,
-                    "endColumn": 53,
-                    "endOffset": 4713
+                    "startOffset": 4660,
+                    "endColumn": 54,
+                    "endOffset": 4710
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -925,9 +925,9 @@
                 "to": {
                     "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 4718,
-                    "endColumn": 50,
-                    "endOffset": 4764
+                    "startOffset": 4715,
+                    "endColumn": 55,
+                    "endOffset": 4766
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -937,9 +937,9 @@
                 "to": {
                     "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 4769,
-                    "endColumn": 51,
-                    "endOffset": 4816
+                    "startOffset": 4771,
+                    "endColumn": 53,
+                    "endOffset": 4820
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -949,9 +949,9 @@
                 "to": {
                     "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 4821,
+                    "startOffset": 4825,
                     "endColumn": 53,
-                    "endOffset": 4870
+                    "endOffset": 4874
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -961,9 +961,9 @@
                 "to": {
                     "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 4875,
-                    "endColumn": 51,
-                    "endOffset": 4922
+                    "startOffset": 4879,
+                    "endColumn": 50,
+                    "endOffset": 4925
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -973,9 +973,9 @@
                 "to": {
                     "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 4927,
+                    "startOffset": 4930,
                     "endColumn": 51,
-                    "endOffset": 4974
+                    "endOffset": 4977
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -985,9 +985,9 @@
                 "to": {
                     "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 4979,
-                    "endColumn": 49,
-                    "endOffset": 5024
+                    "startOffset": 4982,
+                    "endColumn": 53,
+                    "endOffset": 5031
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -997,9 +997,9 @@
                 "to": {
                     "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 5029,
-                    "endColumn": 55,
-                    "endOffset": 5080
+                    "startOffset": 5036,
+                    "endColumn": 51,
+                    "endOffset": 5083
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1009,9 +1009,9 @@
                 "to": {
                     "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 5085,
-                    "endColumn": 58,
-                    "endOffset": 5139
+                    "startOffset": 5088,
+                    "endColumn": 51,
+                    "endOffset": 5135
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1021,9 +1021,9 @@
                 "to": {
                     "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 5144,
-                    "endColumn": 50,
-                    "endOffset": 5190
+                    "startOffset": 5140,
+                    "endColumn": 49,
+                    "endOffset": 5185
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1033,9 +1033,9 @@
                 "to": {
                     "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 5195,
-                    "endColumn": 53,
-                    "endOffset": 5244
+                    "startOffset": 5190,
+                    "endColumn": 55,
+                    "endOffset": 5241
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1045,9 +1045,9 @@
                 "to": {
                     "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 5249,
-                    "endColumn": 52,
-                    "endOffset": 5297
+                    "startOffset": 5246,
+                    "endColumn": 58,
+                    "endOffset": 5300
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1057,9 +1057,9 @@
                 "to": {
                     "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 5302,
-                    "endColumn": 56,
-                    "endOffset": 5354
+                    "startOffset": 5305,
+                    "endColumn": 50,
+                    "endOffset": 5351
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1069,9 +1069,9 @@
                 "to": {
                     "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 5359,
-                    "endColumn": 54,
-                    "endOffset": 5409
+                    "startOffset": 5356,
+                    "endColumn": 53,
+                    "endOffset": 5405
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1081,9 +1081,9 @@
                 "to": {
                     "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 5414,
-                    "endColumn": 46,
-                    "endOffset": 5456
+                    "startOffset": 5410,
+                    "endColumn": 52,
+                    "endOffset": 5458
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1093,9 +1093,9 @@
                 "to": {
                     "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 5461,
-                    "endColumn": 61,
-                    "endOffset": 5518
+                    "startOffset": 5463,
+                    "endColumn": 56,
+                    "endOffset": 5515
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1105,9 +1105,9 @@
                 "to": {
                     "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 5523,
-                    "endColumn": 44,
-                    "endOffset": 5563
+                    "startOffset": 5520,
+                    "endColumn": 54,
+                    "endOffset": 5570
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1117,9 +1117,9 @@
                 "to": {
                     "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 5568,
-                    "endColumn": 45,
-                    "endOffset": 5609
+                    "startOffset": 5575,
+                    "endColumn": 46,
+                    "endOffset": 5617
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1129,9 +1129,9 @@
                 "to": {
                     "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 5614,
-                    "endColumn": 44,
-                    "endOffset": 5654
+                    "startOffset": 5622,
+                    "endColumn": 61,
+                    "endOffset": 5679
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1141,9 +1141,9 @@
                 "to": {
                     "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 5659,
-                    "endColumn": 50,
-                    "endOffset": 5705
+                    "startOffset": 5684,
+                    "endColumn": 44,
+                    "endOffset": 5724
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1153,9 +1153,9 @@
                 "to": {
                     "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 5710,
-                    "endColumn": 58,
-                    "endOffset": 5764
+                    "startOffset": 5729,
+                    "endColumn": 45,
+                    "endOffset": 5770
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1165,9 +1165,9 @@
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 5769,
-                    "endColumn": 62,
-                    "endOffset": 5827
+                    "startOffset": 5775,
+                    "endColumn": 44,
+                    "endOffset": 5815
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1177,9 +1177,9 @@
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 5832,
-                    "endColumn": 45,
-                    "endOffset": 5873
+                    "startOffset": 5820,
+                    "endColumn": 50,
+                    "endOffset": 5866
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1189,9 +1189,9 @@
                 "to": {
                     "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 5878,
-                    "endColumn": 47,
-                    "endOffset": 5921
+                    "startOffset": 5871,
+                    "endColumn": 58,
+                    "endOffset": 5925
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1201,9 +1201,9 @@
                 "to": {
                     "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 5926,
-                    "endColumn": 57,
-                    "endOffset": 5979
+                    "startOffset": 5930,
+                    "endColumn": 62,
+                    "endOffset": 5988
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1213,9 +1213,9 @@
                 "to": {
                     "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 5984,
-                    "endColumn": 53,
-                    "endOffset": 6033
+                    "startOffset": 5993,
+                    "endColumn": 45,
+                    "endOffset": 6034
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1225,9 +1225,9 @@
                 "to": {
                     "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 6038,
-                    "endColumn": 54,
-                    "endOffset": 6088
+                    "startOffset": 6039,
+                    "endColumn": 47,
+                    "endOffset": 6082
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1237,9 +1237,9 @@
                 "to": {
                     "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 6093,
-                    "endColumn": 44,
-                    "endOffset": 6133
+                    "startOffset": 6087,
+                    "endColumn": 57,
+                    "endOffset": 6140
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1249,9 +1249,9 @@
                 "to": {
                     "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 6138,
-                    "endColumn": 52,
-                    "endOffset": 6186
+                    "startOffset": 6145,
+                    "endColumn": 53,
+                    "endOffset": 6194
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1261,9 +1261,9 @@
                 "to": {
                     "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 6191,
-                    "endColumn": 45,
-                    "endOffset": 6232
+                    "startOffset": 6199,
+                    "endColumn": 54,
+                    "endOffset": 6249
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1273,9 +1273,9 @@
                 "to": {
                     "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 6237,
-                    "endColumn": 47,
-                    "endOffset": 6280
+                    "startOffset": 6254,
+                    "endColumn": 44,
+                    "endOffset": 6294
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1285,9 +1285,9 @@
                 "to": {
                     "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 6285,
-                    "endColumn": 49,
-                    "endOffset": 6330
+                    "startOffset": 6299,
+                    "endColumn": 52,
+                    "endOffset": 6347
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1297,9 +1297,9 @@
                 "to": {
                     "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 6335,
-                    "endColumn": 49,
-                    "endOffset": 6380
+                    "startOffset": 6352,
+                    "endColumn": 45,
+                    "endOffset": 6393
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1309,9 +1309,9 @@
                 "to": {
                     "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 6385,
-                    "endColumn": 51,
-                    "endOffset": 6432
+                    "startOffset": 6398,
+                    "endColumn": 47,
+                    "endOffset": 6441
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1321,9 +1321,9 @@
                 "to": {
                     "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 6437,
-                    "endColumn": 47,
-                    "endOffset": 6480
+                    "startOffset": 6446,
+                    "endColumn": 49,
+                    "endOffset": 6491
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1333,9 +1333,9 @@
                 "to": {
                     "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 6485,
-                    "endColumn": 51,
-                    "endOffset": 6532
+                    "startOffset": 6496,
+                    "endColumn": 49,
+                    "endOffset": 6541
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1345,9 +1345,9 @@
                 "to": {
                     "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 6537,
-                    "endColumn": 48,
-                    "endOffset": 6581
+                    "startOffset": 6546,
+                    "endColumn": 51,
+                    "endOffset": 6593
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1357,9 +1357,9 @@
                 "to": {
                     "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 6586,
-                    "endColumn": 48,
-                    "endOffset": 6630
+                    "startOffset": 6598,
+                    "endColumn": 47,
+                    "endOffset": 6641
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1369,9 +1369,9 @@
                 "to": {
                     "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 6635,
-                    "endColumn": 46,
-                    "endOffset": 6677
+                    "startOffset": 6646,
+                    "endColumn": 51,
+                    "endOffset": 6693
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1381,9 +1381,9 @@
                 "to": {
                     "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 6682,
-                    "endColumn": 57,
-                    "endOffset": 6735
+                    "startOffset": 6698,
+                    "endColumn": 48,
+                    "endOffset": 6742
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1393,9 +1393,9 @@
                 "to": {
                     "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 6740,
-                    "endColumn": 50,
-                    "endOffset": 6786
+                    "startOffset": 6747,
+                    "endColumn": 48,
+                    "endOffset": 6791
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1405,9 +1405,9 @@
                 "to": {
                     "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 6791,
-                    "endColumn": 52,
-                    "endOffset": 6839
+                    "startOffset": 6796,
+                    "endColumn": 46,
+                    "endOffset": 6838
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1417,9 +1417,9 @@
                 "to": {
                     "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 6844,
-                    "endColumn": 45,
-                    "endOffset": 6885
+                    "startOffset": 6843,
+                    "endColumn": 57,
+                    "endOffset": 6896
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1429,9 +1429,9 @@
                 "to": {
                     "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 6890,
-                    "endColumn": 53,
-                    "endOffset": 6939
+                    "startOffset": 6901,
+                    "endColumn": 50,
+                    "endOffset": 6947
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1441,9 +1441,9 @@
                 "to": {
                     "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 6944,
-                    "endColumn": 40,
-                    "endOffset": 6980
+                    "startOffset": 6952,
+                    "endColumn": 52,
+                    "endOffset": 7000
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1453,9 +1453,9 @@
                 "to": {
                     "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 6985,
-                    "endColumn": 46,
-                    "endOffset": 7027
+                    "startOffset": 7005,
+                    "endColumn": 45,
+                    "endOffset": 7046
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1465,9 +1465,9 @@
                 "to": {
                     "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 7032,
-                    "endColumn": 47,
-                    "endOffset": 7075
+                    "startOffset": 7051,
+                    "endColumn": 53,
+                    "endOffset": 7100
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1477,9 +1477,9 @@
                 "to": {
                     "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 7080,
-                    "endColumn": 46,
-                    "endOffset": 7122
+                    "startOffset": 7105,
+                    "endColumn": 40,
+                    "endOffset": 7141
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1489,9 +1489,9 @@
                 "to": {
                     "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 7127,
-                    "endColumn": 44,
-                    "endOffset": 7167
+                    "startOffset": 7146,
+                    "endColumn": 46,
+                    "endOffset": 7188
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1501,9 +1501,9 @@
                 "to": {
                     "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 7172,
+                    "startOffset": 7193,
                     "endColumn": 47,
-                    "endOffset": 7215
+                    "endOffset": 7236
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1513,9 +1513,9 @@
                 "to": {
                     "startLine": 130,
                     "startColumn": 4,
-                    "startOffset": 7220,
-                    "endColumn": 50,
-                    "endOffset": 7266
+                    "startOffset": 7241,
+                    "endColumn": 46,
+                    "endOffset": 7283
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1525,9 +1525,9 @@
                 "to": {
                     "startLine": 131,
                     "startColumn": 4,
-                    "startOffset": 7271,
-                    "endColumn": 42,
-                    "endOffset": 7309
+                    "startOffset": 7288,
+                    "endColumn": 44,
+                    "endOffset": 7328
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1537,9 +1537,9 @@
                 "to": {
                     "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 7314,
-                    "endColumn": 51,
-                    "endOffset": 7361
+                    "startOffset": 7333,
+                    "endColumn": 47,
+                    "endOffset": 7376
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1549,9 +1549,9 @@
                 "to": {
                     "startLine": 133,
                     "startColumn": 4,
-                    "startOffset": 7366,
-                    "endColumn": 46,
-                    "endOffset": 7408
+                    "startOffset": 7381,
+                    "endColumn": 50,
+                    "endOffset": 7427
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1561,9 +1561,9 @@
                 "to": {
                     "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 7413,
-                    "endColumn": 56,
-                    "endOffset": 7465
+                    "startOffset": 7432,
+                    "endColumn": 42,
+                    "endOffset": 7470
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1573,9 +1573,9 @@
                 "to": {
                     "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 7470,
-                    "endColumn": 57,
-                    "endOffset": 7523
+                    "startOffset": 7475,
+                    "endColumn": 51,
+                    "endOffset": 7522
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1585,8 +1585,8 @@
                 "to": {
                     "startLine": 136,
                     "startColumn": 4,
-                    "startOffset": 7528,
-                    "endColumn": 45,
+                    "startOffset": 7527,
+                    "endColumn": 46,
                     "endOffset": 7569
                 },
                 "from": {
@@ -1598,8 +1598,8 @@
                     "startLine": 137,
                     "startColumn": 4,
                     "startOffset": 7574,
-                    "endColumn": 58,
-                    "endOffset": 7628
+                    "endColumn": 56,
+                    "endOffset": 7626
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1609,9 +1609,9 @@
                 "to": {
                     "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 7633,
-                    "endColumn": 53,
-                    "endOffset": 7682
+                    "startOffset": 7631,
+                    "endColumn": 57,
+                    "endOffset": 7684
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1621,9 +1621,9 @@
                 "to": {
                     "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 7687,
-                    "endColumn": 59,
-                    "endOffset": 7742
+                    "startOffset": 7689,
+                    "endColumn": 45,
+                    "endOffset": 7730
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1633,9 +1633,9 @@
                 "to": {
                     "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 7747,
-                    "endColumn": 74,
-                    "endOffset": 7817
+                    "startOffset": 7735,
+                    "endColumn": 58,
+                    "endOffset": 7789
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1645,9 +1645,9 @@
                 "to": {
                     "startLine": 141,
                     "startColumn": 4,
-                    "startOffset": 7822,
-                    "endColumn": 48,
-                    "endOffset": 7866
+                    "startOffset": 7794,
+                    "endColumn": 53,
+                    "endOffset": 7843
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1657,9 +1657,9 @@
                 "to": {
                     "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 7871,
-                    "endColumn": 53,
-                    "endOffset": 7920
+                    "startOffset": 7848,
+                    "endColumn": 59,
+                    "endOffset": 7903
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1669,9 +1669,9 @@
                 "to": {
                     "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 7925,
-                    "endColumn": 54,
-                    "endOffset": 7975
+                    "startOffset": 7908,
+                    "endColumn": 74,
+                    "endOffset": 7978
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1681,9 +1681,9 @@
                 "to": {
                     "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 7980,
-                    "endColumn": 50,
-                    "endOffset": 8026
+                    "startOffset": 7983,
+                    "endColumn": 48,
+                    "endOffset": 8027
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1693,9 +1693,9 @@
                 "to": {
                     "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 8031,
-                    "endColumn": 45,
-                    "endOffset": 8072
+                    "startOffset": 8032,
+                    "endColumn": 53,
+                    "endOffset": 8081
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1705,9 +1705,9 @@
                 "to": {
                     "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 8077,
-                    "endColumn": 53,
-                    "endOffset": 8126
+                    "startOffset": 8086,
+                    "endColumn": 54,
+                    "endOffset": 8136
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1717,9 +1717,9 @@
                 "to": {
                     "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 8131,
-                    "endColumn": 44,
-                    "endOffset": 8171
+                    "startOffset": 8141,
+                    "endColumn": 50,
+                    "endOffset": 8187
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1729,9 +1729,9 @@
                 "to": {
                     "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 8176,
-                    "endColumn": 46,
-                    "endOffset": 8218
+                    "startOffset": 8192,
+                    "endColumn": 45,
+                    "endOffset": 8233
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1741,9 +1741,9 @@
                 "to": {
                     "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 8223,
-                    "endColumn": 56,
-                    "endOffset": 8275
+                    "startOffset": 8238,
+                    "endColumn": 53,
+                    "endOffset": 8287
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1753,9 +1753,9 @@
                 "to": {
                     "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 8280,
-                    "endColumn": 52,
-                    "endOffset": 8328
+                    "startOffset": 8292,
+                    "endColumn": 44,
+                    "endOffset": 8332
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1765,9 +1765,9 @@
                 "to": {
                     "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 8333,
+                    "startOffset": 8337,
                     "endColumn": 46,
-                    "endOffset": 8375
+                    "endOffset": 8379
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1777,9 +1777,9 @@
                 "to": {
                     "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 8380,
-                    "endColumn": 46,
-                    "endOffset": 8422
+                    "startOffset": 8384,
+                    "endColumn": 56,
+                    "endOffset": 8436
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1789,9 +1789,9 @@
                 "to": {
                     "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 8427,
-                    "endColumn": 47,
-                    "endOffset": 8470
+                    "startOffset": 8441,
+                    "endColumn": 52,
+                    "endOffset": 8489
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1801,9 +1801,9 @@
                 "to": {
                     "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 8475,
-                    "endColumn": 43,
-                    "endOffset": 8514
+                    "startOffset": 8494,
+                    "endColumn": 46,
+                    "endOffset": 8536
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1813,8 +1813,8 @@
                 "to": {
                     "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 8519,
-                    "endColumn": 68,
+                    "startOffset": 8541,
+                    "endColumn": 46,
                     "endOffset": 8583
                 },
                 "from": {
@@ -1826,8 +1826,8 @@
                     "startLine": 156,
                     "startColumn": 4,
                     "startOffset": 8588,
-                    "endColumn": 55,
-                    "endOffset": 8639
+                    "endColumn": 47,
+                    "endOffset": 8631
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1837,9 +1837,9 @@
                 "to": {
                     "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 8644,
-                    "endColumn": 47,
-                    "endOffset": 8687
+                    "startOffset": 8636,
+                    "endColumn": 43,
+                    "endOffset": 8675
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1849,9 +1849,9 @@
                 "to": {
                     "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 8692,
-                    "endColumn": 60,
-                    "endOffset": 8748
+                    "startOffset": 8680,
+                    "endColumn": 68,
+                    "endOffset": 8744
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1861,9 +1861,9 @@
                 "to": {
                     "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 8753,
-                    "endColumn": 48,
-                    "endOffset": 8797
+                    "startOffset": 8749,
+                    "endColumn": 55,
+                    "endOffset": 8800
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1873,9 +1873,9 @@
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 8802,
-                    "endColumn": 57,
-                    "endOffset": 8855
+                    "startOffset": 8805,
+                    "endColumn": 47,
+                    "endOffset": 8848
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1885,9 +1885,9 @@
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 8860,
-                    "endColumn": 62,
-                    "endOffset": 8918
+                    "startOffset": 8853,
+                    "endColumn": 60,
+                    "endOffset": 8909
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1897,9 +1897,9 @@
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 8923,
-                    "endColumn": 50,
-                    "endOffset": 8969
+                    "startOffset": 8914,
+                    "endColumn": 48,
+                    "endOffset": 8958
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1909,9 +1909,9 @@
                 "to": {
                     "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 8974,
-                    "endColumn": 48,
-                    "endOffset": 9018
+                    "startOffset": 8963,
+                    "endColumn": 57,
+                    "endOffset": 9016
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1921,9 +1921,9 @@
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 9023,
-                    "endColumn": 53,
-                    "endOffset": 9072
+                    "startOffset": 9021,
+                    "endColumn": 62,
+                    "endOffset": 9079
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1933,9 +1933,9 @@
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 9077,
-                    "endColumn": 56,
-                    "endOffset": 9129
+                    "startOffset": 9084,
+                    "endColumn": 50,
+                    "endOffset": 9130
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1945,9 +1945,9 @@
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 9134,
-                    "endColumn": 53,
-                    "endOffset": 9183
+                    "startOffset": 9135,
+                    "endColumn": 48,
+                    "endOffset": 9179
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1957,8 +1957,8 @@
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 9188,
-                    "endColumn": 49,
+                    "startOffset": 9184,
+                    "endColumn": 53,
                     "endOffset": 9233
                 },
                 "from": {
@@ -1970,8 +1970,8 @@
                     "startLine": 168,
                     "startColumn": 4,
                     "startOffset": 9238,
-                    "endColumn": 55,
-                    "endOffset": 9289
+                    "endColumn": 56,
+                    "endOffset": 9290
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1981,9 +1981,9 @@
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 9294,
-                    "endColumn": 49,
-                    "endOffset": 9339
+                    "startOffset": 9295,
+                    "endColumn": 53,
+                    "endOffset": 9344
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -1993,9 +1993,9 @@
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 9344,
-                    "endColumn": 48,
-                    "endOffset": 9388
+                    "startOffset": 9349,
+                    "endColumn": 49,
+                    "endOffset": 9394
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2005,9 +2005,9 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 9393,
-                    "endColumn": 52,
-                    "endOffset": 9441
+                    "startOffset": 9399,
+                    "endColumn": 55,
+                    "endOffset": 9450
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2017,9 +2017,9 @@
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 9446,
-                    "endColumn": 57,
-                    "endOffset": 9499
+                    "startOffset": 9455,
+                    "endColumn": 49,
+                    "endOffset": 9500
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2029,9 +2029,9 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 9504,
-                    "endColumn": 57,
-                    "endOffset": 9557
+                    "startOffset": 9505,
+                    "endColumn": 48,
+                    "endOffset": 9549
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2041,9 +2041,9 @@
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 9562,
-                    "endColumn": 55,
-                    "endOffset": 9613
+                    "startOffset": 9554,
+                    "endColumn": 52,
+                    "endOffset": 9602
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2053,9 +2053,9 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 9618,
-                    "endColumn": 47,
-                    "endOffset": 9661
+                    "startOffset": 9607,
+                    "endColumn": 57,
+                    "endOffset": 9660
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2065,9 +2065,9 @@
                 "to": {
                     "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 9666,
-                    "endColumn": 48,
-                    "endOffset": 9710
+                    "startOffset": 9665,
+                    "endColumn": 57,
+                    "endOffset": 9718
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2077,9 +2077,9 @@
                 "to": {
                     "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 9715,
-                    "endColumn": 42,
-                    "endOffset": 9753
+                    "startOffset": 9723,
+                    "endColumn": 55,
+                    "endOffset": 9774
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2089,9 +2089,9 @@
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 9758,
-                    "endColumn": 44,
-                    "endOffset": 9798
+                    "startOffset": 9779,
+                    "endColumn": 47,
+                    "endOffset": 9822
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2101,9 +2101,9 @@
                 "to": {
                     "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 9803,
-                    "endColumn": 42,
-                    "endOffset": 9841
+                    "startOffset": 9827,
+                    "endColumn": 48,
+                    "endOffset": 9871
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2113,9 +2113,9 @@
                 "to": {
                     "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 9846,
-                    "endColumn": 47,
-                    "endOffset": 9889
+                    "startOffset": 9876,
+                    "endColumn": 42,
+                    "endOffset": 9914
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2125,9 +2125,9 @@
                 "to": {
                     "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 9894,
-                    "endColumn": 42,
-                    "endOffset": 9932
+                    "startOffset": 9919,
+                    "endColumn": 44,
+                    "endOffset": 9959
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2137,9 +2137,9 @@
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 9937,
-                    "endColumn": 45,
-                    "endOffset": 9978
+                    "startOffset": 9964,
+                    "endColumn": 42,
+                    "endOffset": 10002
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2149,9 +2149,9 @@
                 "to": {
                     "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 9983,
-                    "endColumn": 45,
-                    "endOffset": 10024
+                    "startOffset": 10007,
+                    "endColumn": 47,
+                    "endOffset": 10050
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2161,9 +2161,9 @@
                 "to": {
                     "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 10029,
-                    "endColumn": 71,
-                    "endOffset": 10096
+                    "startOffset": 10055,
+                    "endColumn": 42,
+                    "endOffset": 10093
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2173,9 +2173,9 @@
                 "to": {
                     "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 10101,
-                    "endColumn": 62,
-                    "endOffset": 10159
+                    "startOffset": 10098,
+                    "endColumn": 45,
+                    "endOffset": 10139
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2185,9 +2185,9 @@
                 "to": {
                     "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 10164,
-                    "endColumn": 59,
-                    "endOffset": 10219
+                    "startOffset": 10144,
+                    "endColumn": 45,
+                    "endOffset": 10185
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2197,9 +2197,9 @@
                 "to": {
                     "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 10224,
-                    "endColumn": 58,
-                    "endOffset": 10278
+                    "startOffset": 10190,
+                    "endColumn": 71,
+                    "endOffset": 10257
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2209,9 +2209,9 @@
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 10283,
-                    "endColumn": 60,
-                    "endOffset": 10339
+                    "startOffset": 10262,
+                    "endColumn": 62,
+                    "endOffset": 10320
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2221,9 +2221,9 @@
                 "to": {
                     "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 10344,
-                    "endColumn": 57,
-                    "endOffset": 10397
+                    "startOffset": 10325,
+                    "endColumn": 59,
+                    "endOffset": 10380
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2233,9 +2233,9 @@
                 "to": {
                     "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 10402,
-                    "endColumn": 62,
-                    "endOffset": 10460
+                    "startOffset": 10385,
+                    "endColumn": 58,
+                    "endOffset": 10439
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2245,9 +2245,9 @@
                 "to": {
                     "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 10465,
-                    "endColumn": 59,
-                    "endOffset": 10520
+                    "startOffset": 10444,
+                    "endColumn": 60,
+                    "endOffset": 10500
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2257,9 +2257,9 @@
                 "to": {
                     "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 10525,
-                    "endColumn": 59,
-                    "endOffset": 10580
+                    "startOffset": 10505,
+                    "endColumn": 57,
+                    "endOffset": 10558
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2269,9 +2269,9 @@
                 "to": {
                     "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 10585,
-                    "endColumn": 53,
-                    "endOffset": 10634
+                    "startOffset": 10563,
+                    "endColumn": 62,
+                    "endOffset": 10621
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2281,9 +2281,9 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 10639,
-                    "endColumn": 53,
-                    "endOffset": 10688
+                    "startOffset": 10626,
+                    "endColumn": 59,
+                    "endOffset": 10681
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2293,9 +2293,9 @@
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 10693,
-                    "endColumn": 61,
-                    "endOffset": 10750
+                    "startOffset": 10686,
+                    "endColumn": 59,
+                    "endOffset": 10741
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2305,9 +2305,9 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 10755,
-                    "endColumn": 64,
-                    "endOffset": 10815
+                    "startOffset": 10746,
+                    "endColumn": 53,
+                    "endOffset": 10795
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2317,9 +2317,9 @@
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 10820,
-                    "endColumn": 58,
-                    "endOffset": 10874
+                    "startOffset": 10800,
+                    "endColumn": 53,
+                    "endOffset": 10849
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2329,9 +2329,9 @@
                 "to": {
                     "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 10879,
-                    "endColumn": 48,
-                    "endOffset": 10923
+                    "startOffset": 10854,
+                    "endColumn": 61,
+                    "endOffset": 10911
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2341,9 +2341,9 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 10928,
-                    "endColumn": 46,
-                    "endOffset": 10970
+                    "startOffset": 10916,
+                    "endColumn": 64,
+                    "endOffset": 10976
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2353,9 +2353,9 @@
                 "to": {
                     "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 10975,
-                    "endColumn": 68,
-                    "endOffset": 11039
+                    "startOffset": 10981,
+                    "endColumn": 58,
+                    "endOffset": 11035
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2365,9 +2365,9 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 11044,
-                    "endColumn": 49,
-                    "endOffset": 11089
+                    "startOffset": 11040,
+                    "endColumn": 48,
+                    "endOffset": 11084
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2377,9 +2377,9 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 11094,
-                    "endColumn": 52,
-                    "endOffset": 11142
+                    "startOffset": 11089,
+                    "endColumn": 46,
+                    "endOffset": 11131
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2389,9 +2389,9 @@
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 11147,
-                    "endColumn": 56,
-                    "endOffset": 11199
+                    "startOffset": 11136,
+                    "endColumn": 68,
+                    "endOffset": 11200
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2401,9 +2401,9 @@
                 "to": {
                     "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 11204,
+                    "startOffset": 11205,
                     "endColumn": 49,
-                    "endOffset": 11249
+                    "endOffset": 11250
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2413,9 +2413,9 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 11254,
-                    "endColumn": 75,
-                    "endOffset": 11325
+                    "startOffset": 11255,
+                    "endColumn": 52,
+                    "endOffset": 11303
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2425,9 +2425,9 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 11330,
-                    "endColumn": 46,
-                    "endOffset": 11372
+                    "startOffset": 11308,
+                    "endColumn": 56,
+                    "endOffset": 11360
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2437,9 +2437,9 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 11377,
-                    "endColumn": 54,
-                    "endOffset": 11427
+                    "startOffset": 11365,
+                    "endColumn": 49,
+                    "endOffset": 11410
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2449,9 +2449,9 @@
                 "to": {
                     "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 11432,
-                    "endColumn": 54,
-                    "endOffset": 11482
+                    "startOffset": 11415,
+                    "endColumn": 75,
+                    "endOffset": 11486
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2461,9 +2461,9 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 11487,
-                    "endColumn": 54,
-                    "endOffset": 11537
+                    "startOffset": 11491,
+                    "endColumn": 46,
+                    "endOffset": 11533
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2473,9 +2473,9 @@
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 11542,
-                    "endColumn": 53,
-                    "endOffset": 11591
+                    "startOffset": 11538,
+                    "endColumn": 54,
+                    "endOffset": 11588
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2485,9 +2485,9 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 11596,
-                    "endColumn": 106,
-                    "endOffset": 11698
+                    "startOffset": 11593,
+                    "endColumn": 54,
+                    "endOffset": 11643
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2497,9 +2497,9 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 11703,
-                    "endColumn": 60,
-                    "endOffset": 11759
+                    "startOffset": 11648,
+                    "endColumn": 54,
+                    "endOffset": 11698
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2509,9 +2509,9 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 11764,
-                    "endColumn": 57,
-                    "endOffset": 11817
+                    "startOffset": 11703,
+                    "endColumn": 53,
+                    "endOffset": 11752
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2521,9 +2521,9 @@
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 11822,
-                    "endColumn": 43,
-                    "endOffset": 11861
+                    "startOffset": 11757,
+                    "endColumn": 106,
+                    "endOffset": 11859
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2533,9 +2533,9 @@
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 11866,
-                    "endColumn": 43,
-                    "endOffset": 11905
+                    "startOffset": 11864,
+                    "endColumn": 60,
+                    "endOffset": 11920
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2545,9 +2545,9 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 11910,
-                    "endColumn": 54,
-                    "endOffset": 11960
+                    "startOffset": 11925,
+                    "endColumn": 57,
+                    "endOffset": 11978
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2557,9 +2557,9 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 11965,
-                    "endColumn": 63,
-                    "endOffset": 12024
+                    "startOffset": 11983,
+                    "endColumn": 43,
+                    "endOffset": 12022
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2569,9 +2569,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 12029,
-                    "endColumn": 55,
-                    "endOffset": 12080
+                    "startOffset": 12027,
+                    "endColumn": 43,
+                    "endOffset": 12066
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2581,9 +2581,9 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 12085,
-                    "endColumn": 56,
-                    "endOffset": 12137
+                    "startOffset": 12071,
+                    "endColumn": 54,
+                    "endOffset": 12121
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2593,9 +2593,9 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 12142,
-                    "endColumn": 85,
-                    "endOffset": 12223
+                    "startOffset": 12126,
+                    "endColumn": 63,
+                    "endOffset": 12185
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2605,9 +2605,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 12228,
-                    "endColumn": 70,
-                    "endOffset": 12294
+                    "startOffset": 12190,
+                    "endColumn": 55,
+                    "endOffset": 12241
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2617,9 +2617,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 12299,
-                    "endColumn": 75,
-                    "endOffset": 12370
+                    "startOffset": 12246,
+                    "endColumn": 56,
+                    "endOffset": 12298
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2629,9 +2629,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 12375,
-                    "endColumn": 217,
-                    "endOffset": 12588
+                    "startOffset": 12303,
+                    "endColumn": 85,
+                    "endOffset": 12384
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2641,9 +2641,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 12593,
-                    "endColumn": 102,
-                    "endOffset": 12691
+                    "startOffset": 12389,
+                    "endColumn": 70,
+                    "endOffset": 12455
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2653,9 +2653,9 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 12696,
-                    "endColumn": 303,
-                    "endOffset": 12995
+                    "startOffset": 12460,
+                    "endColumn": 75,
+                    "endOffset": 12531
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2665,9 +2665,9 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 13000,
-                    "endColumn": 162,
-                    "endOffset": 13158
+                    "startOffset": 12536,
+                    "endColumn": 217,
+                    "endOffset": 12749
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2677,9 +2677,9 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 13163,
-                    "endColumn": 226,
-                    "endOffset": 13385
+                    "startOffset": 12754,
+                    "endColumn": 102,
+                    "endOffset": 12852
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2689,9 +2689,9 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 13390,
-                    "endColumn": 50,
-                    "endOffset": 13436
+                    "startOffset": 12857,
+                    "endColumn": 303,
+                    "endOffset": 13156
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2701,9 +2701,9 @@
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 13441,
-                    "endColumn": 43,
-                    "endOffset": 13480
+                    "startOffset": 13161,
+                    "endColumn": 162,
+                    "endOffset": 13319
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2713,9 +2713,9 @@
                 "to": {
                     "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 13485,
-                    "endColumn": 43,
-                    "endOffset": 13524
+                    "startOffset": 13324,
+                    "endColumn": 226,
+                    "endOffset": 13546
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2725,9 +2725,9 @@
                 "to": {
                     "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 13529,
-                    "endColumn": 46,
-                    "endOffset": 13571
+                    "startOffset": 13551,
+                    "endColumn": 50,
+                    "endOffset": 13597
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2737,9 +2737,9 @@
                 "to": {
                     "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 13576,
-                    "endColumn": 44,
-                    "endOffset": 13616
+                    "startOffset": 13602,
+                    "endColumn": 43,
+                    "endOffset": 13641
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2749,9 +2749,9 @@
                 "to": {
                     "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 13621,
-                    "endColumn": 46,
-                    "endOffset": 13663
+                    "startOffset": 13646,
+                    "endColumn": 43,
+                    "endOffset": 13685
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2761,9 +2761,9 @@
                 "to": {
                     "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 13668,
-                    "endColumn": 48,
-                    "endOffset": 13712
+                    "startOffset": 13690,
+                    "endColumn": 46,
+                    "endOffset": 13732
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2773,9 +2773,9 @@
                 "to": {
                     "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 13717,
-                    "endColumn": 46,
-                    "endOffset": 13759
+                    "startOffset": 13737,
+                    "endColumn": 44,
+                    "endOffset": 13777
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2785,9 +2785,9 @@
                 "to": {
                     "startLine": 236,
                     "startColumn": 4,
-                    "startOffset": 13764,
-                    "endColumn": 48,
-                    "endOffset": 13808
+                    "startOffset": 13782,
+                    "endColumn": 46,
+                    "endOffset": 13824
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2797,9 +2797,9 @@
                 "to": {
                     "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 13813,
-                    "endColumn": 47,
-                    "endOffset": 13856
+                    "startOffset": 13829,
+                    "endColumn": 48,
+                    "endOffset": 13873
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2809,9 +2809,9 @@
                 "to": {
                     "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 13861,
-                    "endColumn": 49,
-                    "endOffset": 13906
+                    "startOffset": 13878,
+                    "endColumn": 46,
+                    "endOffset": 13920
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2821,9 +2821,9 @@
                 "to": {
                     "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 13911,
-                    "endColumn": 49,
-                    "endOffset": 13956
+                    "startOffset": 13925,
+                    "endColumn": 48,
+                    "endOffset": 13969
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2833,9 +2833,9 @@
                 "to": {
                     "startLine": 240,
                     "startColumn": 4,
-                    "startOffset": 13961,
-                    "endColumn": 50,
-                    "endOffset": 14007
+                    "startOffset": 13974,
+                    "endColumn": 47,
+                    "endOffset": 14017
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2845,9 +2845,9 @@
                 "to": {
                     "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 14012,
-                    "endColumn": 47,
-                    "endOffset": 14055
+                    "startOffset": 14022,
+                    "endColumn": 49,
+                    "endOffset": 14067
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2857,9 +2857,9 @@
                 "to": {
                     "startLine": 242,
                     "startColumn": 4,
-                    "startOffset": 14060,
-                    "endColumn": 47,
-                    "endOffset": 14103
+                    "startOffset": 14072,
+                    "endColumn": 49,
+                    "endOffset": 14117
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2869,9 +2869,9 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 14108,
-                    "endColumn": 45,
-                    "endOffset": 14149
+                    "startOffset": 14122,
+                    "endColumn": 50,
+                    "endOffset": 14168
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2881,9 +2881,9 @@
                 "to": {
                     "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 14154,
-                    "endColumn": 46,
-                    "endOffset": 14196
+                    "startOffset": 14173,
+                    "endColumn": 47,
+                    "endOffset": 14216
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2893,9 +2893,9 @@
                 "to": {
                     "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 14201,
-                    "endColumn": 50,
-                    "endOffset": 14247
+                    "startOffset": 14221,
+                    "endColumn": 47,
+                    "endOffset": 14264
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2905,9 +2905,9 @@
                 "to": {
                     "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 14252,
-                    "endColumn": 55,
-                    "endOffset": 14303
+                    "startOffset": 14269,
+                    "endColumn": 45,
+                    "endOffset": 14310
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2917,9 +2917,9 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 14308,
+                    "startOffset": 14315,
                     "endColumn": 46,
-                    "endOffset": 14350
+                    "endOffset": 14357
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2929,9 +2929,9 @@
                 "to": {
                     "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 14355,
-                    "endColumn": 47,
-                    "endOffset": 14398
+                    "startOffset": 14362,
+                    "endColumn": 50,
+                    "endOffset": 14408
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2941,9 +2941,9 @@
                 "to": {
                     "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 14403,
-                    "endColumn": 43,
-                    "endOffset": 14442
+                    "startOffset": 14413,
+                    "endColumn": 55,
+                    "endOffset": 14464
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2953,9 +2953,9 @@
                 "to": {
                     "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 14447,
-                    "endColumn": 45,
-                    "endOffset": 14488
+                    "startOffset": 14469,
+                    "endColumn": 46,
+                    "endOffset": 14511
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2965,9 +2965,9 @@
                 "to": {
                     "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 14493,
-                    "endColumn": 53,
-                    "endOffset": 14542
+                    "startOffset": 14516,
+                    "endColumn": 47,
+                    "endOffset": 14559
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2977,9 +2977,9 @@
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 14547,
-                    "endColumn": 49,
-                    "endOffset": 14592
+                    "startOffset": 14564,
+                    "endColumn": 43,
+                    "endOffset": 14603
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -2989,9 +2989,9 @@
                 "to": {
                     "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 14597,
-                    "endColumn": 50,
-                    "endOffset": 14643
+                    "startOffset": 14608,
+                    "endColumn": 45,
+                    "endOffset": 14649
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3001,9 +3001,9 @@
                 "to": {
                     "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 14648,
-                    "endColumn": 62,
-                    "endOffset": 14706
+                    "startOffset": 14654,
+                    "endColumn": 53,
+                    "endOffset": 14703
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3013,9 +3013,9 @@
                 "to": {
                     "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 14711,
+                    "startOffset": 14708,
                     "endColumn": 49,
-                    "endOffset": 14756
+                    "endOffset": 14753
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3025,9 +3025,9 @@
                 "to": {
                     "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 14761,
-                    "endColumn": 61,
-                    "endOffset": 14818
+                    "startOffset": 14758,
+                    "endColumn": 50,
+                    "endOffset": 14804
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3037,9 +3037,9 @@
                 "to": {
                     "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 14823,
-                    "endColumn": 57,
-                    "endOffset": 14876
+                    "startOffset": 14809,
+                    "endColumn": 62,
+                    "endOffset": 14867
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3049,9 +3049,9 @@
                 "to": {
                     "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 14881,
-                    "endColumn": 43,
-                    "endOffset": 14920
+                    "startOffset": 14872,
+                    "endColumn": 49,
+                    "endOffset": 14917
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3061,9 +3061,9 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 14925,
-                    "endColumn": 44,
-                    "endOffset": 14965
+                    "startOffset": 14922,
+                    "endColumn": 61,
+                    "endOffset": 14979
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3073,9 +3073,9 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 14970,
-                    "endColumn": 46,
-                    "endOffset": 15012
+                    "startOffset": 14984,
+                    "endColumn": 57,
+                    "endOffset": 15037
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3085,9 +3085,9 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 15017,
-                    "endColumn": 46,
-                    "endOffset": 15059
+                    "startOffset": 15042,
+                    "endColumn": 43,
+                    "endOffset": 15081
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3097,9 +3097,9 @@
                 "to": {
                     "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 15064,
-                    "endColumn": 46,
-                    "endOffset": 15106
+                    "startOffset": 15086,
+                    "endColumn": 44,
+                    "endOffset": 15126
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3109,9 +3109,9 @@
                 "to": {
                     "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 15111,
-                    "endColumn": 47,
-                    "endOffset": 15154
+                    "startOffset": 15131,
+                    "endColumn": 46,
+                    "endOffset": 15173
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3121,9 +3121,9 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 15159,
-                    "endColumn": 42,
-                    "endOffset": 15197
+                    "startOffset": 15178,
+                    "endColumn": 46,
+                    "endOffset": 15220
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3133,9 +3133,9 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 15202,
-                    "endColumn": 49,
-                    "endOffset": 15247
+                    "startOffset": 15225,
+                    "endColumn": 46,
+                    "endOffset": 15267
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3145,9 +3145,9 @@
                 "to": {
                     "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 15252,
-                    "endColumn": 49,
-                    "endOffset": 15297
+                    "startOffset": 15272,
+                    "endColumn": 47,
+                    "endOffset": 15315
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3157,9 +3157,9 @@
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 15302,
-                    "endColumn": 53,
-                    "endOffset": 15351
+                    "startOffset": 15320,
+                    "endColumn": 42,
+                    "endOffset": 15358
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3169,9 +3169,9 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 15356,
-                    "endColumn": 55,
-                    "endOffset": 15407
+                    "startOffset": 15363,
+                    "endColumn": 49,
+                    "endOffset": 15408
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3181,8 +3181,8 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 15412,
-                    "endColumn": 50,
+                    "startOffset": 15413,
+                    "endColumn": 49,
                     "endOffset": 15458
                 },
                 "from": {
@@ -3194,8 +3194,8 @@
                     "startLine": 270,
                     "startColumn": 4,
                     "startOffset": 15463,
-                    "endColumn": 56,
-                    "endOffset": 15515
+                    "endColumn": 53,
+                    "endOffset": 15512
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3205,9 +3205,9 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 15520,
-                    "endColumn": 51,
-                    "endOffset": 15567
+                    "startOffset": 15517,
+                    "endColumn": 55,
+                    "endOffset": 15568
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3217,9 +3217,9 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 15572,
+                    "startOffset": 15573,
                     "endColumn": 50,
-                    "endOffset": 15618
+                    "endOffset": 15619
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3229,9 +3229,9 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 15623,
-                    "endColumn": 54,
-                    "endOffset": 15673
+                    "startOffset": 15624,
+                    "endColumn": 56,
+                    "endOffset": 15676
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3241,9 +3241,9 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 15678,
+                    "startOffset": 15681,
                     "endColumn": 51,
-                    "endOffset": 15725
+                    "endOffset": 15728
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3253,9 +3253,9 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 15730,
-                    "endColumn": 52,
-                    "endOffset": 15778
+                    "startOffset": 15733,
+                    "endColumn": 50,
+                    "endOffset": 15779
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3265,9 +3265,9 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 15783,
-                    "endColumn": 53,
-                    "endOffset": 15832
+                    "startOffset": 15784,
+                    "endColumn": 54,
+                    "endOffset": 15834
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3277,9 +3277,9 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 15837,
+                    "startOffset": 15839,
                     "endColumn": 51,
-                    "endOffset": 15884
+                    "endOffset": 15886
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3289,9 +3289,9 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 15889,
-                    "endColumn": 45,
-                    "endOffset": 15930
+                    "startOffset": 15891,
+                    "endColumn": 52,
+                    "endOffset": 15939
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3301,9 +3301,9 @@
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 15935,
-                    "endColumn": 56,
-                    "endOffset": 15987
+                    "startOffset": 15944,
+                    "endColumn": 53,
+                    "endOffset": 15993
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3313,9 +3313,9 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 15992,
-                    "endColumn": 61,
-                    "endOffset": 16049
+                    "startOffset": 15998,
+                    "endColumn": 51,
+                    "endOffset": 16045
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3325,9 +3325,9 @@
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 16054,
-                    "endColumn": 58,
-                    "endOffset": 16108
+                    "startOffset": 16050,
+                    "endColumn": 45,
+                    "endOffset": 16091
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3337,9 +3337,9 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 16113,
-                    "endColumn": 63,
-                    "endOffset": 16172
+                    "startOffset": 16096,
+                    "endColumn": 56,
+                    "endOffset": 16148
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3349,9 +3349,9 @@
                 "to": {
                     "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 16177,
-                    "endColumn": 48,
-                    "endOffset": 16221
+                    "startOffset": 16153,
+                    "endColumn": 61,
+                    "endOffset": 16210
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3361,9 +3361,9 @@
                 "to": {
                     "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 16226,
-                    "endColumn": 43,
-                    "endOffset": 16265
+                    "startOffset": 16215,
+                    "endColumn": 58,
+                    "endOffset": 16269
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3373,8 +3373,8 @@
                 "to": {
                     "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 16270,
-                    "endColumn": 67,
+                    "startOffset": 16274,
+                    "endColumn": 63,
                     "endOffset": 16333
                 },
                 "from": {
@@ -3386,8 +3386,8 @@
                     "startLine": 286,
                     "startColumn": 4,
                     "startOffset": 16338,
-                    "endColumn": 72,
-                    "endOffset": 16406
+                    "endColumn": 48,
+                    "endOffset": 16382
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3397,9 +3397,9 @@
                 "to": {
                     "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 16411,
-                    "endColumn": 42,
-                    "endOffset": 16449
+                    "startOffset": 16387,
+                    "endColumn": 43,
+                    "endOffset": 16426
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3409,9 +3409,9 @@
                 "to": {
                     "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 16454,
-                    "endColumn": 51,
-                    "endOffset": 16501
+                    "startOffset": 16431,
+                    "endColumn": 67,
+                    "endOffset": 16494
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3421,9 +3421,9 @@
                 "to": {
                     "startLine": 289,
                     "startColumn": 4,
-                    "startOffset": 16506,
-                    "endColumn": 48,
-                    "endOffset": 16550
+                    "startOffset": 16499,
+                    "endColumn": 72,
+                    "endOffset": 16567
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3433,9 +3433,9 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 16555,
-                    "endColumn": 69,
-                    "endOffset": 16620
+                    "startOffset": 16572,
+                    "endColumn": 42,
+                    "endOffset": 16610
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3445,23 +3445,46 @@
                 "to": {
                     "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 16625,
-                    "endLine": 293,
-                    "endColumn": 12,
-                    "endOffset": 16740
+                    "startOffset": 16615,
+                    "endColumn": 51,
+                    "endOffset": 16662
                 },
                 "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 16667,
+                    "endColumn": 48,
+                    "endOffset": 16711
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 16716,
+                    "endColumn": 69,
+                    "endOffset": 16781
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 16745,
+                    "startOffset": 16786,
                     "endLine": 296,
                     "endColumn": 12,
-                    "endOffset": 16823
+                    "endOffset": 16901
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3471,10 +3494,52 @@
                 "to": {
                     "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 16828,
-                    "endLine": 301,
+                    "startOffset": 16906,
+                    "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 17011
+                    "endOffset": 17192
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 17197,
+                    "endLine": 308,
+                    "endColumn": 12,
+                    "endOffset": 17465
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 17470,
+                    "endLine": 314,
+                    "endColumn": 12,
+                    "endOffset": 17739
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3482,12 +3547,12 @@
             },
             {
                 "to": {
-                    "startLine": 302,
+                    "startLine": 315,
                     "startColumn": 4,
-                    "startOffset": 17016,
-                    "endLine": 307,
+                    "startOffset": 17744,
+                    "endLine": 320,
                     "endColumn": 12,
-                    "endOffset": 17285
+                    "endOffset": 18013
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3495,12 +3560,12 @@
             },
             {
                 "to": {
-                    "startLine": 308,
+                    "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 17290,
-                    "endLine": 313,
+                    "startOffset": 18018,
+                    "endLine": 326,
                     "endColumn": 12,
-                    "endOffset": 17559
+                    "endOffset": 18287
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3508,12 +3573,12 @@
             },
             {
                 "to": {
-                    "startLine": 314,
+                    "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 17564,
-                    "endLine": 319,
+                    "startOffset": 18292,
+                    "endLine": 332,
                     "endColumn": 12,
-                    "endOffset": 17833
+                    "endOffset": 18561
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3521,12 +3586,12 @@
             },
             {
                 "to": {
-                    "startLine": 320,
+                    "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 17838,
-                    "endLine": 325,
+                    "startOffset": 18566,
+                    "endLine": 338,
                     "endColumn": 12,
-                    "endOffset": 18107
+                    "endOffset": 18835
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3534,12 +3599,12 @@
             },
             {
                 "to": {
-                    "startLine": 326,
+                    "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 18112,
-                    "endLine": 331,
+                    "startOffset": 18840,
+                    "endLine": 344,
                     "endColumn": 12,
-                    "endOffset": 18381
+                    "endOffset": 19109
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3547,12 +3612,12 @@
             },
             {
                 "to": {
-                    "startLine": 332,
+                    "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 18386,
-                    "endLine": 337,
+                    "startOffset": 19114,
+                    "endLine": 350,
                     "endColumn": 12,
-                    "endOffset": 18655
+                    "endOffset": 19383
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3560,12 +3625,12 @@
             },
             {
                 "to": {
-                    "startLine": 338,
+                    "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 18660,
-                    "endLine": 343,
+                    "startOffset": 19388,
+                    "endLine": 356,
                     "endColumn": 12,
-                    "endOffset": 18929
+                    "endOffset": 19657
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3573,12 +3638,12 @@
             },
             {
                 "to": {
-                    "startLine": 344,
+                    "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 18934,
-                    "endLine": 349,
+                    "startOffset": 19662,
+                    "endLine": 362,
                     "endColumn": 12,
-                    "endOffset": 19203
+                    "endOffset": 19931
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3586,25 +3651,12 @@
             },
             {
                 "to": {
-                    "startLine": 350,
+                    "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 19208,
-                    "endLine": 355,
+                    "startOffset": 19936,
+                    "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 19477
-                },
-                "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 356,
-                    "startColumn": 4,
-                    "startOffset": 19482,
-                    "endLine": 370,
-                    "endColumn": 12,
-                    "endOffset": 19993
+                    "endOffset": 20447
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\strings.xml"
@@ -3612,12 +3664,12 @@
             },
             {
                 "to": {
-                    "startLine": 371,
+                    "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 19998,
-                    "endLine": 374,
+                    "startOffset": 20452,
+                    "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 20158
+                    "endOffset": 20612
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3625,12 +3677,12 @@
             },
             {
                 "to": {
-                    "startLine": 375,
+                    "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 20163,
-                    "endLine": 378,
+                    "startOffset": 20617,
+                    "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 20323
+                    "endOffset": 20777
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3638,12 +3690,12 @@
             },
             {
                 "to": {
-                    "startLine": 379,
+                    "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 20328,
-                    "endLine": 382,
+                    "startOffset": 20782,
+                    "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 20488
+                    "endOffset": 20942
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3651,12 +3703,12 @@
             },
             {
                 "to": {
-                    "startLine": 383,
+                    "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 20493,
-                    "endLine": 386,
+                    "startOffset": 20947,
+                    "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 20653
+                    "endOffset": 21107
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3664,12 +3716,12 @@
             },
             {
                 "to": {
-                    "startLine": 387,
+                    "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 20658,
-                    "endLine": 390,
+                    "startOffset": 21112,
+                    "endLine": 397,
                     "endColumn": 12,
-                    "endOffset": 20818
+                    "endOffset": 21272
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3677,12 +3729,12 @@
             },
             {
                 "to": {
-                    "startLine": 391,
+                    "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 20823,
-                    "endLine": 394,
+                    "startOffset": 21277,
+                    "endLine": 401,
                     "endColumn": 12,
-                    "endOffset": 20983
+                    "endOffset": 21437
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3690,12 +3742,12 @@
             },
             {
                 "to": {
-                    "startLine": 395,
+                    "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 20988,
-                    "endLine": 398,
+                    "startOffset": 21442,
+                    "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 21146
+                    "endOffset": 21600
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3703,12 +3755,12 @@
             },
             {
                 "to": {
-                    "startLine": 399,
+                    "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 21151,
-                    "endLine": 402,
+                    "startOffset": 21605,
+                    "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 21309
+                    "endOffset": 21763
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3716,12 +3768,12 @@
             },
             {
                 "to": {
-                    "startLine": 403,
+                    "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 21314,
-                    "endLine": 406,
+                    "startOffset": 21768,
+                    "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 21472
+                    "endOffset": 21926
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3729,12 +3781,12 @@
             },
             {
                 "to": {
-                    "startLine": 407,
+                    "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 21477,
-                    "endLine": 410,
+                    "startOffset": 21931,
+                    "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 21637
+                    "endOffset": 22091
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3742,12 +3794,12 @@
             },
             {
                 "to": {
-                    "startLine": 411,
+                    "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 21642,
-                    "endLine": 414,
+                    "startOffset": 22096,
+                    "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 21805
+                    "endOffset": 22259
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3755,12 +3807,12 @@
             },
             {
                 "to": {
-                    "startLine": 415,
+                    "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 21810,
-                    "endLine": 418,
+                    "startOffset": 22264,
+                    "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 21968
+                    "endOffset": 22422
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3768,12 +3820,12 @@
             },
             {
                 "to": {
-                    "startLine": 419,
+                    "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 21973,
-                    "endLine": 422,
+                    "startOffset": 22427,
+                    "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 22131
+                    "endOffset": 22585
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3781,12 +3833,12 @@
             },
             {
                 "to": {
-                    "startLine": 423,
+                    "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 22136,
-                    "endLine": 426,
+                    "startOffset": 22590,
+                    "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 22294
+                    "endOffset": 22748
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3794,12 +3846,12 @@
             },
             {
                 "to": {
-                    "startLine": 427,
+                    "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 22299,
-                    "endLine": 430,
+                    "startOffset": 22753,
+                    "endLine": 437,
                     "endColumn": 12,
-                    "endOffset": 22457
+                    "endOffset": 22911
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3807,12 +3859,12 @@
             },
             {
                 "to": {
-                    "startLine": 431,
+                    "startLine": 438,
                     "startColumn": 4,
-                    "startOffset": 22462,
-                    "endLine": 434,
+                    "startOffset": 22916,
+                    "endLine": 441,
                     "endColumn": 12,
-                    "endOffset": 22618
+                    "endOffset": 23072
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3820,12 +3872,12 @@
             },
             {
                 "to": {
-                    "startLine": 435,
+                    "startLine": 442,
                     "startColumn": 4,
-                    "startOffset": 22623,
-                    "endLine": 438,
+                    "startOffset": 23077,
+                    "endLine": 445,
                     "endColumn": 12,
-                    "endOffset": 22779
+                    "endOffset": 23233
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3833,12 +3885,12 @@
             },
             {
                 "to": {
-                    "startLine": 439,
+                    "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 22784,
-                    "endLine": 442,
+                    "startOffset": 23238,
+                    "endLine": 449,
                     "endColumn": 12,
-                    "endOffset": 22940
+                    "endOffset": 23394
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3846,12 +3898,12 @@
             },
             {
                 "to": {
-                    "startLine": 443,
+                    "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 22945,
-                    "endLine": 447,
+                    "startOffset": 23399,
+                    "endLine": 454,
                     "endColumn": 12,
-                    "endOffset": 23168
+                    "endOffset": 23622
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3859,12 +3911,12 @@
             },
             {
                 "to": {
-                    "startLine": 448,
+                    "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 23173,
-                    "endLine": 452,
+                    "startOffset": 23627,
+                    "endLine": 459,
                     "endColumn": 12,
-                    "endOffset": 23396
+                    "endOffset": 23850
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3872,12 +3924,12 @@
             },
             {
                 "to": {
-                    "startLine": 453,
+                    "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 23401,
-                    "endLine": 457,
+                    "startOffset": 23855,
+                    "endLine": 464,
                     "endColumn": 12,
-                    "endOffset": 23619
+                    "endOffset": 24073
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3885,12 +3937,12 @@
             },
             {
                 "to": {
-                    "startLine": 458,
+                    "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 23624,
-                    "endLine": 462,
+                    "startOffset": 24078,
+                    "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 23842
+                    "endOffset": 24296
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3898,12 +3950,12 @@
             },
             {
                 "to": {
-                    "startLine": 463,
+                    "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 23847,
-                    "endLine": 467,
+                    "startOffset": 24301,
+                    "endLine": 474,
                     "endColumn": 12,
-                    "endOffset": 24065
+                    "endOffset": 24519
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3911,12 +3963,12 @@
             },
             {
                 "to": {
-                    "startLine": 468,
+                    "startLine": 475,
                     "startColumn": 4,
-                    "startOffset": 24070,
-                    "endLine": 472,
+                    "startOffset": 24524,
+                    "endLine": 479,
                     "endColumn": 12,
-                    "endOffset": 24288
+                    "endOffset": 24742
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3924,12 +3976,12 @@
             },
             {
                 "to": {
-                    "startLine": 473,
+                    "startLine": 480,
                     "startColumn": 4,
-                    "startOffset": 24293,
-                    "endLine": 477,
+                    "startOffset": 24747,
+                    "endLine": 484,
                     "endColumn": 12,
-                    "endOffset": 24511
+                    "endOffset": 24965
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3937,12 +3989,12 @@
             },
             {
                 "to": {
-                    "startLine": 478,
+                    "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 24516,
-                    "endLine": 481,
+                    "startOffset": 24970,
+                    "endLine": 488,
                     "endColumn": 12,
-                    "endOffset": 24672
+                    "endOffset": 25126
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3950,12 +4002,12 @@
             },
             {
                 "to": {
-                    "startLine": 482,
+                    "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 24677,
-                    "endLine": 485,
+                    "startOffset": 25131,
+                    "endLine": 492,
                     "endColumn": 12,
-                    "endOffset": 24833
+                    "endOffset": 25287
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3963,12 +4015,12 @@
             },
             {
                 "to": {
-                    "startLine": 486,
+                    "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 24838,
-                    "endLine": 489,
+                    "startOffset": 25292,
+                    "endLine": 496,
                     "endColumn": 12,
-                    "endOffset": 24994
+                    "endOffset": 25448
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3976,12 +4028,12 @@
             },
             {
                 "to": {
-                    "startLine": 490,
+                    "startLine": 497,
                     "startColumn": 4,
-                    "startOffset": 24999,
-                    "endLine": 493,
+                    "startOffset": 25453,
+                    "endLine": 500,
                     "endColumn": 12,
-                    "endOffset": 25159
+                    "endOffset": 25613
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -3989,12 +4041,12 @@
             },
             {
                 "to": {
-                    "startLine": 494,
+                    "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 25164,
-                    "endLine": 497,
+                    "startOffset": 25618,
+                    "endLine": 504,
                     "endColumn": 12,
-                    "endOffset": 25324
+                    "endOffset": 25778
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -4002,12 +4054,12 @@
             },
             {
                 "to": {
-                    "startLine": 498,
+                    "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 25329,
-                    "endLine": 501,
+                    "startOffset": 25783,
+                    "endLine": 508,
                     "endColumn": 12,
-                    "endOffset": 25489
+                    "endOffset": 25943
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -4015,12 +4067,12 @@
             },
             {
                 "to": {
-                    "startLine": 502,
+                    "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 25494,
-                    "endLine": 505,
+                    "startOffset": 25948,
+                    "endLine": 512,
                     "endColumn": 12,
-                    "endOffset": 25654
+                    "endOffset": 26108
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -4028,12 +4080,12 @@
             },
             {
                 "to": {
-                    "startLine": 506,
+                    "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 25659,
-                    "endLine": 509,
+                    "startOffset": 26113,
+                    "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 25819
+                    "endOffset": 26273
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -4041,12 +4093,12 @@
             },
             {
                 "to": {
-                    "startLine": 510,
+                    "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 25824,
-                    "endLine": 513,
+                    "startOffset": 26278,
+                    "endLine": 520,
                     "endColumn": 12,
-                    "endOffset": 25984
+                    "endOffset": 26438
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -4054,12 +4106,12 @@
             },
             {
                 "to": {
-                    "startLine": 514,
+                    "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 25989,
-                    "endLine": 518,
+                    "startOffset": 26443,
+                    "endLine": 525,
                     "endColumn": 12,
-                    "endOffset": 26202
+                    "endOffset": 26656
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -4067,12 +4119,12 @@
             },
             {
                 "to": {
-                    "startLine": 519,
+                    "startLine": 526,
                     "startColumn": 4,
-                    "startOffset": 26207,
-                    "endLine": 522,
+                    "startOffset": 26661,
+                    "endLine": 529,
                     "endColumn": 12,
-                    "endOffset": 26367
+                    "endOffset": 26821
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -4080,12 +4132,12 @@
             },
             {
                 "to": {
-                    "startLine": 523,
+                    "startLine": 530,
                     "startColumn": 4,
-                    "startOffset": 26372,
-                    "endLine": 526,
+                    "startOffset": 26826,
+                    "endLine": 533,
                     "endColumn": 12,
-                    "endOffset": 26532
+                    "endOffset": 26986
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -4093,38 +4145,12 @@
             },
             {
                 "to": {
-                    "startLine": 527,
+                    "startLine": 534,
                     "startColumn": 4,
-                    "startOffset": 26537,
-                    "endLine": 534,
-                    "endColumn": 9,
-                    "endOffset": 26886
-                },
-                "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 535,
-                    "startColumn": 4,
-                    "startOffset": 26891,
-                    "endLine": 542,
-                    "endColumn": 9,
-                    "endOffset": 27247
-                },
-                "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 543,
-                    "startColumn": 4,
-                    "startOffset": 27252,
-                    "endLine": 548,
+                    "startOffset": 26991,
+                    "endLine": 541,
                     "endColumn": 12,
-                    "endOffset": 27567
+                    "endOffset": 27379
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
@@ -4132,25 +4158,98 @@
             },
             {
                 "to": {
-                    "startLine": 549,
+                    "startLine": 542,
                     "startColumn": 4,
-                    "startOffset": 27572,
-                    "endLine": 556,
-                    "endColumn": 8,
-                    "endOffset": 27917
-                },
-                "from": {
-                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 557,
-                    "startColumn": 4,
-                    "startOffset": 27922,
-                    "endLine": 566,
+                    "startOffset": 27384,
+                    "endLine": 549,
                     "endColumn": 12,
-                    "endOffset": 28502
+                    "endOffset": 27779
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 27784,
+                    "endLine": 553,
+                    "endColumn": 12,
+                    "endOffset": 27973
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 554,
+                    "startColumn": 4,
+                    "startOffset": 27978,
+                    "endLine": 557,
+                    "endColumn": 12,
+                    "endOffset": 28167
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 558,
+                    "startColumn": 4,
+                    "startOffset": 28172,
+                    "endLine": 561,
+                    "endColumn": 12,
+                    "endOffset": 28355
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 336,
+                        "startColumn": 4,
+                        "startOffset": 12857,
+                        "endLine": 339,
+                        "endColumn": 12,
+                        "endOffset": 13043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 562,
+                    "startColumn": 4,
+                    "startOffset": 28360,
+                    "endLine": 567,
+                    "endColumn": 12,
+                    "endOffset": 28675
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 568,
+                    "startColumn": 4,
+                    "startOffset": 28680,
+                    "endLine": 575,
+                    "endColumn": 12,
+                    "endOffset": 29071
+                },
+                "from": {
+                    "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 576,
+                    "startColumn": 4,
+                    "startOffset": 29076,
+                    "endLine": 585,
+                    "endColumn": 12,
+                    "endOffset": 29656
                 },
                 "from": {
                     "file": "D:\\android\\workspace\\KTVAppLoop1\\kTVApp\\src\\main\\res\\values\\styles.xml"

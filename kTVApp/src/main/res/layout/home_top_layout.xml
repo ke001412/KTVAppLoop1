@@ -1,170 +1,157 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:customAttr="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/home_top_layout"
     android:layout_width="match_parent"
     android:layout_height="85dp"
-    android:layout_marginTop="10dp">
+    android:gravity="center_vertical"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="120dp">
 
-    <LinearLayout
-        android:id="@+id/home_top_media_online"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_alignParentRight="true"
-        android:layout_marginRight="80dp"
-        android:gravity="center"
-        android:orientation="vertical">
-
-        <ImageView
-            android:layout_width="@dimen/top_nav_imame_width"
-            android:layout_height="@dimen/top_nav_imame_height"
-            android:scaleType="centerInside"
-            android:src="@drawable/home_movies_button" />
-
-        <TextView
-            style="@style/NormalWhiteText18"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="1dp"
-            android:text="@string/home_button_movies" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/home_top_wifi_chose_song"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_marginRight="30dp"
-        android:layout_toLeftOf="@id/home_top_media_online"
-        android:gravity="center"
-        android:orientation="vertical">
-
-        <ImageView
-            android:layout_width="@dimen/top_nav_imame_width"
-            android:layout_height="@dimen/top_nav_imame_height"
-            android:scaleType="centerInside"
-            android:src="@drawable/wuxian2" />
-
-        <TextView
-            style="@style/NormalWhiteText18"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="1dp"
-            android:text="@string/home_button_wuxian" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/home_top_cloud_server"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_gravity="center"
-        android:layout_marginRight="30dp"
-        android:layout_toLeftOf="@id/home_top_wifi_chose_song"
-        android:gravity="center"
-        android:orientation="vertical">
-
-        <ImageView
-            android:layout_width="@dimen/top_nav_imame_width"
-            android:layout_height="@dimen/top_nav_imame_height"
-            android:scaleType="centerInside"
-            android:src="@drawable/home_yunfuwu_button" />
-
-        <TextView
-            style="@style/NormalWhiteText18"
-            android:layout_width="55dp"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="1dp"
-            android:text="@string/home_button_yunfuwu" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/home_top_msg"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_gravity="center"
-        android:layout_marginRight="30dp"
-        android:layout_toLeftOf="@id/home_top_cloud_server"
-        android:gravity="center"
-        android:orientation="vertical">
-
-        <ImageView
-            android:layout_width="@dimen/top_nav_imame_width"
-            android:layout_height="@dimen/top_nav_imame_height"
-            android:scaleType="centerInside"
-            android:src="@drawable/home_xiaoxi_button"
-            />
-
-        <TextView
-            style="@style/NormalWhiteText18"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="1dp"
-            android:text="@string/home_button_xinxi" />
-    </LinearLayout>
+    <TextView
+        android:id="@+id/play_title"
+        android:layout_width="444dp"
+        android:layout_height="42dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/paoma"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:text="title"
+        android:textColor="@android:color/white"
+        android:textSize="22dip" />
 
     <TextView
         android:id="@+id/home_top_search"
-        style="@style/NormalWhiteText18"
-        android:layout_width="105dp"
-        android:layout_height="35dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="40dp"
-        android:layout_toLeftOf="@id/home_top_msg"
-        android:background="@drawable/home_sousuo_button"
-        android:gravity="bottom|center" />
+        style="@style/home_bottom_text_style"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="50dip"
+        android:layout_marginRight="50dip"
+        android:background="@drawable/home_sousuo_button" />
 
     <LinearLayout
-        android:id="@+id/play_title_layout"
-        android:layout_width="444dp"
-        android:layout_height="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginTop="40dp"
-        android:layout_toLeftOf="@id/home_top_search"
-        android:background="@drawable/paoma"
-        android:gravity="center"
-        android:orientation="horizontal">
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical">
 
-        <TextView
-            android:id="@+id/play_title"
+        <LinearLayout
+            android:id="@+id/home_top_msg"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:ellipsize="marquee"
-            android:focusable="true"
-            android:focusableInTouchMode="true"
-            android:marqueeRepeatLimit="marquee_forever"
-            android:maxLines="1"
-            android:singleLine="true"
-            android:text="01234567890123456789012345678901234567890123456789012345678901234567890123456789"
-            android:textColor="@android:color/white"
-            android:textSize="18dip"/>
-        <!--
-             <com.sz.ktv.view.widget.ScrollTextView
-                 android:layout_marginTop="0dp"
-                 android:layout_marginLeft="5dp"
-                 android:layout_marginRight="5dp"
-                 android:id="@+id/scroll_text"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/top_nav_imame_width"
+                android:layout_height="@dimen/top_nav_imame_height"
+                android:scaleType="centerInside"
+                android:src="@drawable/home_xiaoxi_button" />
+
+            <TextView
+                style="@style/home_bottom_text_style"
                 android:layout_width="wrap_content"
-                android:layout_height="40dp"
-                customAttr:clickEnable="false"
-                customAttr:isHorizontal="true"
-                android:layout_gravity="center"
-                customAttr:speed="1"
-                customAttr:text="当前播放: 蓝莲花"
-                customAttr:textColor="#ffffffff"
-                customAttr:textSize="20dp"
-                customAttr:times="1567" />
-                <TextView
-                    android:id="@+id/scroll_text_1"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:singleLine="true"
-                    android:ellipsize="marquee"
-                    android:focusable="true"
-                    android:focusableInTouchMode="true"
-                    android:text="当前播放: 蓝莲花1 当前播放: 蓝莲花2当前播放: 蓝莲花3当前播放: 蓝莲花4当前播放: 蓝莲花5当前播放: 蓝莲花6当前播放: 蓝莲花7当前播放: 蓝莲花当前播放: 蓝莲花"
-                    android:textColor="#ffff0000"
-                    android:textSize="20sp"
-                    android:marqueeRepeatLimit ="marquee_forever"
-                    />
-                    -->
+                android:layout_height="wrap_content"
+                android:text="@string/home_button_xinxi" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/home_top_cloud_server"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_marginLeft="30dip"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/top_nav_imame_width"
+                android:layout_height="@dimen/top_nav_imame_height"
+                android:scaleType="centerInside"
+                android:src="@drawable/home_yunfuwu_button" />
+
+            <TextView
+                style="@style/home_bottom_text_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/home_button_yunfuwu" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/home_top_wifi_chose_song"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_marginLeft="30dip"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/top_nav_imame_width"
+                android:layout_height="@dimen/top_nav_imame_height"
+                android:scaleType="centerInside"
+                android:src="@drawable/wuxian2" />
+
+            <TextView
+                style="@style/home_bottom_text_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/home_button_wuxian" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/home_top_media_online"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_marginLeft="30dip"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/top_nav_imame_width"
+                android:layout_height="@dimen/top_nav_imame_height"
+                android:scaleType="centerInside"
+                android:src="@drawable/home_movies_button" />
+
+            <TextView
+                style="@style/home_bottom_text_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/home_button_movies" />
+        </LinearLayout>
+
     </LinearLayout>
-</RelativeLayout>
+
+
+    <!--
+         <com.sz.ktv.view.widget.ScrollTextView
+             android:layout_marginTop="0dp"
+             android:layout_marginLeft="5dp"
+             android:layout_marginRight="5dp"
+             android:id="@+id/scroll_text"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            customAttr:clickEnable="false"
+            customAttr:isHorizontal="true"
+            android:layout_gravity="center"
+            customAttr:speed="1"
+            customAttr:text="当前播放: 蓝莲花"
+            customAttr:textColor="#ffffffff"
+            customAttr:textSize="20dp"
+            customAttr:times="1567" />
+            <TextView
+                android:id="@+id/scroll_text_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:ellipsize="marquee"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:text="当前播放: 蓝莲花1 当前播放: 蓝莲花2当前播放: 蓝莲花3当前播放: 蓝莲花4当前播放: 蓝莲花5当前播放: 蓝莲花6当前播放: 蓝莲花7当前播放: 蓝莲花当前播放: 蓝莲花"
+                android:textColor="#ffff0000"
+                android:textSize="20sp"
+                android:marqueeRepeatLimit ="marquee_forever"
+                />
+                -->
+</LinearLayout>

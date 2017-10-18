@@ -123,7 +123,7 @@ public class MainActivity extends BaseFragmentActivity implements
     LinearLayout homeTopYun;
     LinearLayout homeTopWifiDianGe;
 
-    RelativeLayout topLayout;
+    LinearLayout topLayout;
 
     static {
         currentPath = MyApplication.getInstance().getSavePath();
@@ -354,7 +354,7 @@ public class MainActivity extends BaseFragmentActivity implements
         homeYiDianCountTv = (TextView) findViewById(R.id.home_yidian_count);
         homeYiDianCountTv.setText("0");
 
-        topLayout = (RelativeLayout) findViewById(R.id.home_top_layout);
+        topLayout = (LinearLayout) findViewById(R.id.home_top_layout);
 
         homeTopMsg = (LinearLayout) findViewById(R.id.home_top_msg);
         homeTopYun = (LinearLayout) findViewById(R.id.home_top_cloud_server);
@@ -420,7 +420,7 @@ public class MainActivity extends BaseFragmentActivity implements
         //scrollText = (ScrollTextView) findViewById(R.id.scroll_text);
 //		scrollText.setSpeed(1500);
         if (DebugUtil.IS_DEBUG) {
-            mPlayTitleLayout = (LinearLayout) findViewById(R.id.play_title_layout);
+            //mPlayTitleLayout = (LinearLayout) findViewById(R.id.play_title_layout);
             mScrollText = (TextView) findViewById(R.id.play_title);
             mScrollText.setSelected(true);
         }
@@ -960,8 +960,8 @@ public class MainActivity extends BaseFragmentActivity implements
     }
 
     private void setPlayTitleScrolledText(String title) {
-        mPlayTitleLayout.measure(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);
-        int layoutWidth = mPlayTitleLayout.getMeasuredWidth();
+        //mPlayTitleLayout.measure(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);
+        //int layoutWidth = mPlayTitleLayout.getMeasuredWidth();
         float titleWidth = mScrollText.getPaint().measureText(title);
         StringBuilder builder = new StringBuilder();
         builder.append(title);

@@ -31,7 +31,7 @@
     <color name="color_switch_red">#F25C5C</color>
     <color name="color_un_select">#6A7DAB</color>
     <color name="color_update">#3E4B69</color>
-    <color name="color_white">#ffffff</color>
+    <color name="color_white">#ffffffff</color>
     <color name="darkorange">#FF824600</color>
     <color name="input_dialog_btn_color">#A6E6FF</color>
     <color name="orange">#FFF48B00</color>
@@ -47,6 +47,9 @@
     <dimen name="bottom_nav_imame_width">42dip</dimen>
     <dimen name="center_main_margin">6dip</dimen>
     <dimen name="font_size">18.0dip</dimen>
+    <dimen name="home_bottom_text_size">20dip</dimen>
+    <dimen name="home_center_text_size">24dip</dimen>
+    <dimen name="home_top_text_size">18dip</dimen>
     <dimen name="input_dialog_btn_hight">40dp</dimen>
     <dimen name="input_dialog_btn_width">100dp</dimen>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
@@ -293,12 +296,16 @@
         <item name="android:windowEnterAnimation">@anim/fade_in</item>
     </style>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        
-     <item name="android:windowNoTitle">true</item>    
-        <item name="android:windowFullscreen">true</item>  
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
     </style>
     <style name="BoldBlackText12">
         <item name="android:textSize">12dp</item>
@@ -526,21 +533,33 @@
         <item name="android:textColor">@color/color_white</item>
     </style>
     <style name="btn_input_amount_style">
-  <item name="android:layout_width">0dp</item>
-  <item name="android:layout_height">match_parent</item>
-  <item name="android:layout_weight">1</item>
-  <item name="android:textSize">30dp</item>
-  <item name="android:textColor">#333333</item>
-  <item name="android:background">@color/color_white</item>
- </style>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:background">@color/color_white</item>
+    </style>
     <style name="btn_input_amount_style_delete">
-  <item name="android:layout_width">0dp</item>
-  <item name="android:layout_height">match_parent</item>
-  <item name="android:layout_weight">1</item>
-  <item name="android:textSize">10dp</item>
-  <item name="android:textColor">#333333</item>
-  <item name="android:background">@color/color_white</item>
- </style>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">10dp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:background">@color/color_white</item>
+    </style>
+    <style name="home_bottom_text_style">
+        <item name="android:textSize">@dimen/home_bottom_text_size</item>
+        <item name="android:textColor">@color/color_white</item>
+    </style>
+    <style name="home_center_text_style">
+        <item name="android:textSize">@dimen/home_center_text_size</item>
+        <item name="android:textColor">@color/color_white</item>
+    </style>
+    <style name="home_top_text_style">
+        <item name="android:textSize">@dimen/home_top_text_size</item>
+        <item name="android:textColor">@color/color_white</item>
+    </style>
     <style name="input_dialog_style" parent="@android:style/Theme.Dialog">
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowNoTitle">true</item>
@@ -548,13 +567,13 @@
         <item name="android:windowIsTranslucent">true</item>
     </style>
     <style name="layout_input_amount_style">
- <item name="android:layout_width">match_parent</item>
- <item name="android:layout_height">0dp</item>
- <item name="android:layout_weight">1</item>
- <item name="android:layout_marginBottom">1dp</item>
- <item name="android:gravity">center</item>
- <item name="android:orientation">horizontal</item>
-</style>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginBottom">1dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
     <style name="loaddialog" parent="@android:style/Theme.Dialog">
         <item name="android:windowFrame">@null</item>
         <item name="android:windowIsFloating">true</item>

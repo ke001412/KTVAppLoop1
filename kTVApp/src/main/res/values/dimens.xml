@@ -18,4 +18,8 @@
     <dimen name="bottom_nav_imame_width">42dip</dimen>
     <dimen name="bottom_nav_imame_height">48dip</dimen>
     <dimen name="center_main_margin">6dip</dimen>
+
+    <dimen name="home_center_text_size">24dip</dimen>
+    <dimen name="home_bottom_text_size">20dip</dimen>
+    <dimen name="home_top_text_size">18dip</dimen>
 </resources>

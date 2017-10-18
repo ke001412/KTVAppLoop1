@@ -2,45 +2,44 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/home_bottom_container"
     android:layout_width="match_parent"
-    android:layout_height="105dp"
+    android:layout_height="wrap_content"
     android:layout_gravity="bottom"
-    android:gravity="bottom" >
+    android:gravity="bottom">
 
-    <com.hisilicon.android.videoplayer.view.HisiVideoView 
+    <com.hisilicon.android.videoplayer.view.HisiVideoView
         android:id="@+id/home_bottom_center_video"
         android:layout_width="125dp"
         android:layout_height="165dp"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-         />
+        android:layout_centerHorizontal="true" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        android:layout_marginBottom="10dp"
         android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
         android:layout_toLeftOf="@id/home_bottom_center_video"
         android:gravity="bottom"
-        android:orientation="horizontal" >
+        android:orientation="horizontal">
 
         <RelativeLayout
             android:id="@+id/home_shouye"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
-                 android:layout_width="@dimen/bottom_nav_imame_width"
+                android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
+                android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
                 android:layout_centerVertical="true"
-                android:layout_alignParentTop="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/shouye" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -53,19 +52,19 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_qiege_button" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -79,19 +78,19 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_zanting_button" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -104,19 +103,19 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_chongbo_button" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -129,21 +128,21 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:id="@+id/home_banchang_img"
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_banchang_button" />
 
             <TextView
                 android:id="@+id/home_banchang_text"
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -156,19 +155,19 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_yinjian_button" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -179,31 +178,31 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-         android:layout_height="70dp"
-        android:layout_marginBottom="10dp"
+        android:layout_height="70dp"
         android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
         android:layout_toRightOf="@id/home_bottom_center_video"
         android:gravity="bottom"
-        android:orientation="horizontal" >
+        android:orientation="horizontal">
 
         <RelativeLayout
             android:id="@+id/home_yinjia"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_yinjia_button" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -216,21 +215,21 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:id="@+id/home_fanyin_img"
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_fanyin_button" />
 
             <TextView
                 android:id="@+id/home_fangyin_text"
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -243,19 +242,19 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_qifen_button" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -268,19 +267,19 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_gengduo_button" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -293,19 +292,19 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_daohang_button" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
@@ -318,30 +317,30 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <ImageView
                 android:layout_width="@dimen/bottom_nav_imame_width"
                 android:layout_height="@dimen/bottom_nav_imame_height"
-                android:scaleType="centerInside"
-                 android:layout_centerVertical="true"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:scaleType="centerInside"
                 android:src="@drawable/home_yidian_button" />
 
             <TextView
                 android:id="@+id/home_yidian_count"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
                 android:gravity="center"
                 android:text="0"
-                android:layout_alignParentTop="true"
                 android:textColor="@android:color/holo_red_dark"
-                android:textSize="14dp" />
+                android:textSize="18dp" />
 
             <TextView
-                style="@style/NormalWhiteText18"
+                style="@style/home_bottom_text_style"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"

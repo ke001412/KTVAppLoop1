@@ -33,7 +33,7 @@
                     android:src="@drawable/gexing" />
 
                 <TextView
-                    style="@style/NormalWhiteText18"
+                    style="@style/home_center_text_style"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom|end"
@@ -53,7 +53,7 @@
                     android:src="@drawable/xinge" />
 
                 <TextView
-                    style="@style/NormalWhiteText18"
+                    style="@style/home_center_text_style"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom|end"
@@ -85,7 +85,7 @@
                         android:src="@drawable/quzhong" />
 
                     <TextView
-                        style="@style/NormalWhiteText18"
+                        style="@style/home_center_text_style"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="bottom|end"
@@ -105,7 +105,7 @@
                         android:src="@drawable/paihang" />
 
                     <TextView
-                        style="@style/NormalWhiteText18"
+                        style="@style/home_center_text_style"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="bottom|end"
@@ -126,11 +126,12 @@
                     android:src="@drawable/geming" />
 
                 <TextView
-                    style="@style/NormalBlackText18"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom|end"
-                    android:text="@string/home_center_geming" />
+                    android:text="@string/home_center_geming"
+                    android:textSize="@dimen/home_center_text_size"
+                    android:textColor="@color/color_black"/>
             </FrameLayout>
         </LinearLayout>
 
@@ -158,7 +159,7 @@
                         android:src="@drawable/hd" />
 
                     <TextView
-                        style="@style/NormalWhiteText18"
+                        style="@style/home_center_text_style"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="bottom|end"
@@ -178,7 +179,7 @@
                         android:src="@drawable/shezhi" />
 
                     <TextView
-                        style="@style/NormalWhiteText18"
+                        style="@style/home_center_text_style"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="bottom|end"
@@ -199,7 +200,7 @@
                     android:src="@drawable/remen" />
 
                 <TextView
-                    style="@style/NormalWhiteText18"
+                    style="@style/home_center_text_style"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom|end"
@@ -224,7 +225,7 @@
                         android:src="@drawable/wuqu" />
 
                     <TextView
-                        style="@style/NormalWhiteText18"
+                        style="@style/home_center_text_style"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="bottom|end"
@@ -244,7 +245,7 @@
                         android:src="@drawable/shoucang" />
 
                     <TextView
-                        style="@style/NormalWhiteText18"
+                        style="@style/home_center_text_style"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="bottom|end"
